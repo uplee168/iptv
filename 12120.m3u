@@ -9,9 +9,9 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 #EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="RAW",MOMO2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RAW",EF运通
+#EXTINF:-1 tvg-id="运通" tvg-name="运通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EFTVcaijing.png" group-title="RAW",运通
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RAW",信大
+#EXTINF:-1 tvg-id="信大" tvg-name="信大" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xindatv.png" group-title="RAW",信大
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 #EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="RAW",DW
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="RAW",凤凰资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RAW",新唐人
+#EXTINF:-1 tvg-id="" tvg-name="新唐人" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NTD.png" group-title="RAW",新唐人
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="RAW",ABC NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="RAW",中视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RAW",FRANCE
+#EXTINF:-1 tvg-id="FRANCE" tvg-name="FRANCE" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png" group-title="RAW",FRANCE
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RAW",NBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
@@ -133,11 +133,11 @@ http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="NET",J2
 https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NET",TAIWAN PLUS
+#EXTINF:-1 tvg-id="" tvg-name="TAIWAN PLUS" tvg-logo="" group-title="NET",TAIWAN PLUS
 https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NET",AXNTW
+#EXTINF:-1 tvg-id="" tvg-name="AXNTW" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AXNTV.png" group-title="NET",AXNTW
 http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NET",AXNTW
+#EXTINF:-1 tvg-id="" tvg-name="AXNTW" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AXNTV.png" group-title="NET",AXNTW
 http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="NET",壹新闻
 http://49.235.110.121:9090/898/peda/twjd.php?id=49
@@ -327,9 +327,9 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY_7/variant.m3u8
 http://38.96.178.201/live/Disney/index.m3u8
 #EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="KIDS",Disney
 http://38.96.178.201:80/live/Disney/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Disney XD
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Disney1.png" group-title="KIDS",Disney XD
 http://38.96.178.201:80/live/DisneyXD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Disney XD
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Disney1.png" group-title="KIDS",Disney XD
 https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="989" tvg-name="Outdoor" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/outdoor.png" group-title="KIDS",Outdoor
 http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
@@ -383,19 +383,19 @@ http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897
 http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="KIDS",探索频道
 http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Smithsonian channel selec
+#EXTINF:-1 tvg-id="Smithsonian" tvg-name="Smithsonian" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Smithsonian.png" group-title="KIDS",Smithsonian channel selec
 https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",LOVE NATURE 4K
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE 4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LoveNarure4K.png" group-title="KIDS",LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",LOVE NATURE 4K
+#EXTINF:-1 tvg-id="LOVE NATURE 4K" tvg-name="LOVE NATURE 4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LoveNarure4K.png" group-title="KIDS",LOVE NATURE 4K
 https://epg.pw/stream/30c7c461245365535860d95e2338c63c02f8ce1a2eab9483b132d644afb90873.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",LOVE NATURE 4K
+#EXTINF:-1 tvg-id="LOVE NATURE 4K" tvg-name="LOVE NATURE 4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LoveNarure4K.png" group-title="KIDS",LOVE NATURE 4K
 https://epg.pw/stream/63d67f2a207e6f649f16cdeb7dc9eb190a95de243d54505301b3d4b8861ece58.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",LOVE NATURE 4K
+#EXTINF:-1 tvg-id="LOVE NATURE 4K" tvg-name="LOVE NATURE 4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LoveNarure4K.png" group-title="KIDS",LOVE NATURE 4K
 https://epg.pw/stream/59c05b5f45ace2ee35d58a647079e8c79d2c9d622f35a2744e6ca39f1e7d62f1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",LOVE NATURE 4K
+#EXTINF:-1 tvg-id="LOVE NATURE 4K" tvg-name="LOVE NATURE 4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LoveNarure4K.png" group-title="KIDS",LOVE NATURE 4K
 https://epg.pw/stream/9fe777878ac6f9319d66972a3040c8e8185ba96c414dd927147249b070541711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",LOVE NATURE 4K
+#EXTINF:-1 tvg-id="LOVE NATURE 4K" tvg-name="LOVE NATURE 4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LoveNarure4K.png" group-title="KIDS",LOVE NATURE 4K
 https://epg.pw/stream/9738bfc90d9cd020ee8a9797361cfde7c85528dadd9638913a2dc0114384c687.m3u8
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="HBO",HBO HD
 http://125.227.210.55:35210/VideoInput/play.ts
@@ -467,9 +467,9 @@ http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10295
 http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10934
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",HBO MAX 2
 http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/11192
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",HBO家庭
+#EXTINF:-1 tvg-id="HBO家庭" tvg-name="HBO家庭" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="HBO",HBO家庭
 http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",HBO家庭
+#EXTINF:-1 tvg-id="HBO家庭" tvg-name="HBO家庭" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="HBO",HBO家庭
 http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 #EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="HBO",HBO原创
 http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
@@ -481,19 +481,19 @@ http://208.115.225.174:14170
 http://208.115.225.174:14173
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",SBT
 http://208.115.225.174:14176
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",Hollywood
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hollywood.png" group-title="HBO",Hollywood
 http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",Hollywood
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hollywood.png" group-title="HBO",Hollywood
 http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",Hollywood
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hollywood.png" group-title="HBO",Hollywood
 https://epg.pw/stream/856120e8ee2029d1e8a5984b2ee23320b8e768a4e90544fce77d3ee8cbb3a05c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",Hollywood
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hollywood.png" group-title="HBO",Hollywood
 https://epg.pw/stream/cb974b3858e96b0f844f145346f9f301213096aabd05986c7da17f19c9035361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",WB TV
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="" tvg-logo="" group-title="HBO",WB TV
 http://208.115.225.174:14132
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",Cinemax
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Cinemax.png" group-title="HBO",Cinemax
 http://170.254.18.106/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",Star Movies
+#EXTINF:-1 tvg-id="Star Movies" tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/StarMovies.png" group-title="HBO",Star Movies
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1 tvg-id="6148" tvg-name="DREAMWORKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/dreamworks.png" group-title="HBO",DreamWorks
 http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
