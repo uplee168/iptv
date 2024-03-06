@@ -133,7 +133,7 @@ http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="NET",J2
 https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
-#EXTINF:-1 tvg-id="" tvg-name="TAIWAN PLUS" tvg-logo="" group-title="NET",TAIWAN PLUS
+#EXTINF:-1 tvg-id="TAIWAN PLUS" tvg-name="TAIWAN PLUS" tvg-logo="https://live.fanmingming.com/tv/TaiwanPlus.png" group-title="NET",TAIWAN PLUS
 https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXNTW" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AXNTV.png" group-title="NET",AXNTW
 http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
@@ -147,9 +147,9 @@ http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1242
 http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1222
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="NET",寰宇新闻
 http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=482629
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NET",华视新闻
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS1.png" group-title="NET",华视新闻
 http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156391&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NET",华视新闻
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS1.png" group-title="NET",华视新闻
 http://sc2022.stream-link.org/tv2306.php?id=t04
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="NET",东森新闻
 http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
@@ -333,35 +333,35 @@ http://38.96.178.201:80/live/DisneyXD/index.m3u8
 https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="989" tvg-name="Outdoor" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/outdoor.png" group-title="KIDS",Outdoor
 http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",国家地理
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",国家地理
 http://1.24.190.98:10088/hls/120/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",国家地理
+#EXTINF:-1 tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",国家地理
 http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",国家地理
+#EXTINF:-1 tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",国家地理
 http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",国家地理
+#EXTINF:-1 tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",国家地理
 http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",国家地理
+#EXTINF:-1 tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",国家地理
 http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",国家地理野生
+#EXTINF:-1 tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",国家地理野生
 http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",国家地理野生
+#EXTINF:-1 tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://live.fanmingming.com/tv/natgeowild.pnghttps://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",国家地理野生
 http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",国家地理野生
+#EXTINF:-1 tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",国家地理野生
 http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",国家地理野生
+#EXTINF:-1 tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",国家地理野生
 http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",National Geographic
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",National Geographic
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Nat Geo Wild
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Nat Geo Wild
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Nat Geo Wild
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
 http://moobl.ru/hls/Nat_geo_wild.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Nat Geo Wild
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
 http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Nat Geo Wild
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
 https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="KIDS",Animal Planet
 http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
