@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="RAW",华视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RAW",中天新闻
+#EXTINF:-1 tvg-id="中天新聞HD" tvg-name="中天新聞HD" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="RAW",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="RAW",TVBS新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
@@ -117,9 +117,9 @@ https://epg.pw/stream/d10537b7c7bd5042706a9bf58776a08a4c2cbc09a65d612db415bc14ee
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NET",RTHK 35
 https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
-#EXTINF:-1 tvg-id="232357" tvg-name="HOY TV" tvg-logo="" group-title="NET",HOY TV
+#EXTINF:-1 tvg-id="232357" tvg-name="HOY TV" tvg-logo="https://epg.112114.xyz/logo/HOYTV.png" group-title="NET",HOY TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="232357" tvg-name="HOY TV" tvg-logo="" group-title="NET",HOY TV
+#EXTINF:-1 tvg-id="232357" tvg-name="HOY TV" tvg-logo="https://epg.112114.xyz/logo/HOYTV.png" group-title="NET",HOY TV
 http://51.89.21.73:27347/livehttpplay?channel_id=20152
 #EXTINF:-1 tvg-id="232352" tvg-name="HOY TV 資訊台" tvg-logo="" group-title="NET",HOY资讯
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
@@ -339,14 +339,14 @@ https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
 http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",国家地理
 http://1.24.190.98:10088/hls/120/index.m3u8
-#EXTINF:-1 tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",国家地理
-http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
-#EXTINF:-1 tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",国家地理
-http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
-#EXTINF:-1 tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",国家地理
-http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
-#EXTINF:-1 tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",国家地理
-http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+#EXTINF:-1 tvg-id="國家地理HD" tvg-name="國家地理HD" tvg-logo="https://epg.112114.xyz/logo/國家地理.png" group-title="KIDS",国家地理
+http://47.242.38.45:9999/twjd678-1.php?id=9
+#EXTINF:-1 tvg-id="國家地理HD" tvg-name="國家地理HD" tvg-logo="https://epg.112114.xyz/logo/國家地理.png" group-title="KIDS",国家地理
+http://47.242.38.45:9999/twjd678-2.php?id=9
+#EXTINF:-1 tvg-id="國家地理HD" tvg-name="國家地理HD" tvg-logo="https://epg.112114.xyz/logo/國家地理.png" group-title="KIDS",国家地理
+http://47.242.38.45:9999/twjd678-2.php?id=16
+#EXTINF:-1 tvg-id="國家地理HD" tvg-name="國家地理HD" tvg-logo="https://epg.112114.xyz/logo/國家地理.png" group-title="KIDS",国家地理
+http://47.242.38.45:9999/twjd678-2.php?id=53
 #EXTINF:-1 tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",国家地理野生
 http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 #EXTINF:-1 tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://live.fanmingming.com/tv/natgeowild.pnghttps://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",国家地理野生
