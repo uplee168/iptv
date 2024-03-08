@@ -191,9 +191,9 @@ https://epg.pw/stream/98bb6524ea5fecbe2a86febf9c903c49091e4565708e2e06c7a7f227f1
 https://epg.pw/stream/dc88e4bb8165db1af83d0c571b8260a21c248841a2f1c8c44a2bbf840ea50eea.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="NET",[BD]TVBS新闻
 https://epg.pw/stream/3a8d129a03f92db91cefa8f474b876f921d9b1b8346b42b1be50e7bcc7287940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NET",TVBS ASIA
+#EXTINF:-1 tvg-id="3509" tvg-name="TVBS Asia" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="NET",TVBS ASIA
 https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NET",TVBS ASIA
+#EXTINF:-1 tvg-id="3509" tvg-name="TVBS Asia" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="NET",TVBS ASIA
 https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="NET",民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
@@ -357,6 +357,8 @@ http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&
 http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",National Geographic
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",National Geographic
+https://epg.pw/stream/c1f13bf8466acb3e6447b89327b2afc4c979cba7eecca72ade833fae9a1cd30b.m3u8
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
@@ -367,6 +369,8 @@ http://moobl.ru/hls/Nat_geo_wild.m3u8
 http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
 https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
+https://epg.pw/stream/9f0be71076c1d9b89a6f1064de278b1217e60763ee9d89a2296367cba33833d5.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="KIDS",Animal Planet
 http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="KIDS",Animal Planet
