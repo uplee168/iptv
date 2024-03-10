@@ -287,38 +287,18 @@ http://38.96.178.201:80/live/DisneyXD/index.m3u8
 https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="989" tvg-name="Outdoor" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/outdoor.png" group-title="KIDS",Outdoor
 http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",国家地理
+#EXTINF:-1 tvg-id="國家地理HD" tvg-name="國家地理HD" tvg-logo="https://epg.112114.xyz/logo/國家地理.png" group-title="KIDS",国家地理
 http://1.24.190.98:10088/hls/120/index.m3u8
-#EXTINF:-1 tvg-id="國家地理HD" tvg-name="國家地理HD" tvg-logo="https://epg.112114.xyz/logo/國家地理.png" group-title="KIDS",国家地理
-http://47.242.38.45:9999/twjd678-1.php?id=9
-#EXTINF:-1 tvg-id="國家地理HD" tvg-name="國家地理HD" tvg-logo="https://epg.112114.xyz/logo/國家地理.png" group-title="KIDS",国家地理
-http://47.242.38.45:9999/twjd678-2.php?id=9
-#EXTINF:-1 tvg-id="國家地理HD" tvg-name="國家地理HD" tvg-logo="https://epg.112114.xyz/logo/國家地理.png" group-title="KIDS",国家地理
-http://47.242.38.45:9999/twjd678-2.php?id=16
-#EXTINF:-1 tvg-id="國家地理HD" tvg-name="國家地理HD" tvg-logo="https://epg.112114.xyz/logo/國家地理.png" group-title="KIDS",国家地理
-http://47.242.38.45:9999/twjd678-2.php?id=53
-#EXTINF:-1 tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",国家地理野生
-http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
-#EXTINF:-1 tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://live.fanmingming.com/tv/natgeowild.pnghttps://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",国家地理野生
-http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
-#EXTINF:-1 tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",国家地理野生
-http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 #EXTINF:-1 tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",国家地理野生
 http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",National Geographic
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",National Geographic
 https://epg.pw/stream/c1f13bf8466acb3e6447b89327b2afc4c979cba7eecca72ade833fae9a1cd30b.m3u8
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
+#EXTINF:-1 tvg-id="WildEarth" tvg-name="WildEarth" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",WildEarth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
-http://moobl.ru/hls/Nat_geo_wild.m3u8
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
-http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
-https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
 https://epg.pw/stream/9f0be71076c1d9b89a6f1064de278b1217e60763ee9d89a2296367cba33833d5.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="KIDS",Animal Planet
