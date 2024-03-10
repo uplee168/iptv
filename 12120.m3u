@@ -275,30 +275,12 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 http://125.227.210.55:46493/VideoInput/play.ts
 #EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="KIDS",CN卡通
 http://198.16.100.90:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Cartoon Network
-http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id=""11060 tvg-name="Cartoon Network" tvg-logo="" group-title="KIDS",Cartoon Network
 http://89.254.128.5:22280/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-id="11060" tvg-name="Cartoon Network" tvg-logo="" group-title="KIDS",Cartoon Network
 http://89.254.128.5:22280/cartoon_network/video.m3u8
-#EXTINF:-1 tvg-id="11060" tvg-name="Cartoon Network" tvg-logo="" group-title="KIDS",Cartoon Network
-https://sc2022.stream-link.org/tv2306.php?id=c01
-#EXTINF:-1 tvg-id="11060" tvg-name="Cartoon Network" tvg-logo="" group-title="KIDS",Cartoon Network
-http://moobl.ru/hls/Cartoon_network.m3u8
-#EXTINF:-1 tvg-id="11060" tvg-name="Cartoon Network" tvg-logo="" group-title="KIDS",Cartoon Network
-http://europe3.livetv.az/russia/cartoon/playlist.m3u8
-#EXTINF:-1 tvg-id="105212" tvg-name="CARTOONITO" tvg-logo="" group-title="KIDS",CARTOONITO
-http://149.100.19.131:8080/Boomerang/index.m3u8
 #EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="KIDS",Disney
 http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
-#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="KIDS",Disney
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="KIDS",Disney
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="KIDS",Disney
-http://38.96.178.201/live/Disney/index.m3u8
-#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="KIDS",Disney
-http://38.96.178.201:80/live/Disney/index.m3u8
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Disney1.png" group-title="KIDS",Disney XD
 http://38.96.178.201:80/live/DisneyXD/index.m3u8
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Disney1.png" group-title="KIDS",Disney XD
