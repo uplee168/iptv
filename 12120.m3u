@@ -431,16 +431,46 @@ http://r.jdshipin.com/qClQf
 http://r.jdshipin.com/qrfbg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TVB翡翠频道
 http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TVB翡翠频道
+http://120.238.13.198:8000/hls/21/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TVB翡翠频道
+http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TVB翡翠频道
+http://2023.stream-link.org/playlist/tvb_jade
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TVB翡翠频道
+http://23.237.10.66:16106
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TVB翡翠频道
+http://jydx.jdshipin.com:8081/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",无线新闻频道
 http://223.71.206.22:30080/HK/wxxw/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",无线新闻频道
 http://ceshi.huanqiuzhibo.cn/accv.php?id=inews_twn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",民视新闻
 http://livetv.skycf.eu.org/live.m3u8?c=11
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TVBS新闻
 http://livetv.skycf.eu.org/live.m3u8?c=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",镜新闻台
 http://livetv.skycf.eu.org/live.m3u8?c=10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",华視新闻
+http://livetv.skycf.eu.org/live.m3u8?c=13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",华視新闻
+http://2023.stream-link.org/playlist/cts_news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",华視新闻
+http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",寰宇新闻台
+http://2023.stream-link.org/playlist/global_tw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",寰宇新闻台
+http://www.yshmzmc.top/gtjm.php?id=live1222
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",寰宇新闻台
+http://158.101.151.82:9000/jmsytb.m3u8?c=14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",寰宇新闻台
+http://pull-l3-cny.douyincdn.com/third/stream-a9e3982a798d13ba350075af6cff4119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TVBS HD
+http://2023.stream-link.org/playlist/tvbs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TVBS HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",HBO家庭
 http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",HBO家庭
@@ -459,6 +489,8 @@ http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354
 http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",国家地理野生
 http://193.233.206.48:8090/live/rx1/1038/636410ed06ab0133600d073642bd72c4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",国家地理野生
+http://mywlkj.ddns.net:754/tv/tw3.php?id=15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",动物星球
 http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",动物星球
@@ -471,6 +503,8 @@ http://193.233.206.48:8090/live/rx1/367/43808663ca2d9844df766e123f6b2c44/index.m
 http://154.216.191.59/ycdz/tw220.php?id=6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",动物星球
 http://ceshi.huanqiuzhibo.cn/accv.php?id=animalplanet_twn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",动物星球
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",CN卡通
 http://193.233.206.48:8090/live/rx1/107/cd327321ac4444c8d1a0a76dea0c0817/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",CN卡通
@@ -487,3 +521,5 @@ http://193.233.206.48:8090/live/rx1/344/0dcc5f284d5eb8f401c8c5673f3b187c/index.m
 http://154.216.191.59/ycdz/tw220.php?id=46
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Nickjr
 http://154.216.191.59/ycdz/tw220.php?id=47
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Disney
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
