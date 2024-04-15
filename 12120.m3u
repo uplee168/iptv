@@ -76,6 +76,8 @@ http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="NET",无线财经
 http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="NET",翡翠台
+https://iptv.hiper25.com/TVB/video.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="NET",翡翠台
 http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="NET",翡翠台
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
@@ -377,6 +379,8 @@ http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=1966
 http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 #EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="HBO",HBO家庭
 http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="HBO",HBO家庭
+http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="HBO",HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="HBO",HBO原创
