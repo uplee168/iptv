@@ -76,6 +76,8 @@ http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="NET",无线财经
 http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="NET",翡翠台
+http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="NET",翡翠台
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="NET",翡翠台
 http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
@@ -249,6 +251,8 @@ http://moobl.ru/hls/STS_Kids.m3u8
 http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 #EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png" group-title="KIDS",靖天卡通
 http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+#EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png" group-title="KIDS",靖天卡通
+http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MB8B2268792122687921&ct=19669&tsum=b8cacd287675dec973fa12ee2a4ed4ce
 #EXTINF:-1 tvg-id="232359" tvg-name="ViuTV Six" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="KIDS",ViuTV6
 https://epg.pw/stream/bb59f78bb7727ff9807a49dd25e65e86375466e8334cd0d08e7de7ca0995f29a.ctv
 #EXTINF:-1 tvg-id="232359" tvg-name="ViuTV Six" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="KIDS",ViuTV6
@@ -258,9 +262,11 @@ http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",HOY KIDS
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="KIDS",CN卡通
+http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=MFDF1103375311033753&ct=19669&tsum=6fb24e321f8d107b2b084599c5d0d807
+#EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="KIDS",CN卡通
 http://125.227.210.55:46493/VideoInput/play.ts
 #EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="KIDS",CN卡通
-http://198.16.100.90:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
+http://198.16.100.90:8278/momo1_twn/playlist.m3u8?tid=MFDF1103375311033753&ct=19669&tsum=6fb24e321f8d107b2b084599c5d0d807
 #EXTINF:-1 tvg-id=""11060 tvg-name="Cartoon Network" tvg-logo="" group-title="KIDS",Cartoon Network
 http://89.254.128.5:22280/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-id="11060" tvg-name="Cartoon Network" tvg-logo="" group-title="KIDS",Cartoon Network
@@ -279,8 +285,12 @@ https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="國家地理HD" tvg-name="國家地理HD" tvg-logo="https://epg.112114.xyz/logo/國家地理.png" group-title="KIDS",国家地理
 http://1.24.190.98:10088/hls/120/index.m3u8
+#EXTINF:-1 tvg-id="國家地理HD" tvg-name="國家地理HD" tvg-logo="https://epg.112114.xyz/logo/國家地理.png" group-title="KIDS",国家地理
+http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MCAC5533277955332779&ct=19669&tsum=a0fd33455c2f7e0475e1c50b95daf2fe
 #EXTINF:-1 tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",国家地理野生
 http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
+#EXTINF:-1 tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",国家地理野生
+http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=MAAA1894400518944005&ct=19669&tsum=6bb5ed729263ca3e4af7e1c03fb9cd4b
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",National Geographic
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",National Geographic
@@ -302,11 +312,15 @@ http://208.115.225.174:14192
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="KIDS",动物星球(中)
 http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="KIDS",动物星球(中)
+http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MBDB7684924376849243&ct=19669&tsum=9f33896720e9ce7b15a77ae998c49d0b
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="KIDS",动物星球(中)
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="KIDS",动物星球(中)
 http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="KIDS",动物星球(中)
 http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="KIDS",动物星球(中)
-http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MBDB7684924376849243&ct=19669&tsum=9f33896720e9ce7b15a77ae998c49d0b
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="KIDS",Discovery HD
 http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="KIDS",Discovery HD
@@ -340,6 +354,8 @@ http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10117
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="HBO",HBO
 http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="HBO",HBO
+http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="HBO",HBO
 http://41.205.93.154/HBO/index.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="HBO",HBO
 http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10618
@@ -353,8 +369,22 @@ http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10118
 http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10740
 #EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="HBO",HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="HBO",HBO家庭
+http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="HBO",HBO家庭
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="HBO",HBO家庭
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="HBO",HBO家庭
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 #EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="HBO",HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="HBO",HBO原创
+http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MBDB3207246932072469&ct=19669&tsum=98c883b26f09203891c6febf9365efd2
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="HBO",HBO原创
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="HBO",HBO原创
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",HBO PLUS
 http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10119
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",HBO POP
@@ -365,18 +395,6 @@ http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10293
 http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10620
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",HBO XTREME
 http://170.254.18.106/HBO_XTREME/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",HBO MAX1
-http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10934
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",HBO MAX2
-http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/11192
-#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="HBO",HBO家庭
-http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="HBO",HBO家庭
-http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="HBO",HBO原创
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="HBO",HBO原创
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",SBT
 http://208.115.225.174:14170
 #EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hollywood.png" group-title="HBO",Hollywood
@@ -395,6 +413,8 @@ http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=1787
 http://208.115.225.174:14132
 #EXTINF:-1 tvg-id="105126" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Cinemax.png" group-title="HBO",Cinemax
 http://170.254.18.106/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="105126" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Cinemax.png" group-title="HBO",Cinemax
+http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 #EXTINF:-1 tvg-id="246159" tvg-name="Star Movies HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/StarMovies.png" group-title="HBO",Star Movies
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1 tvg-id="6148" tvg-name="DREAMWORKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/dreamworks.png" group-title="HBO",DreamWorks
@@ -409,6 +429,8 @@ http://162.19.247.76:22222/live/dsdyt/index.m3u8
 https://epg.pw/stream/8b6c965b023696353ae23ce6216297fa6f2e13236497bcfe9d9955fb69be2259.m3u8
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="HBO",东森洋片
 http://162.19.247.76:22222/live/dsypt/index.m3u8
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="HBO",东森洋片
+http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="HBO",tvNMovie
 http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",NETFLIX MOVIES
