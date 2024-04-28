@@ -213,6 +213,8 @@ http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 https://epg.pw/stream/c1f13bf8466acb3e6447b89327b2afc4c979cba7eecca72ade833fae9a1cd30b.m3u8
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="KIDS",National Geographic
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
+#EXTINF:-1 tvg-name="Nat Geo(TW)" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601220556736344_25.png" group-title="KIDS",National Geographic
+https://epg.pw/stream/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.ctv
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="KIDS",Nat Geo Wild
