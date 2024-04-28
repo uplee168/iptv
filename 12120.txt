@@ -9,7 +9,7 @@ NEWS,#genre#
 无线财经新闻,https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
 TVB娱乐新闻台,https://epg.pw/stream/f9efb8d90b794167021e488f94eca9fca27ebd9a457141905d28cf3de633392e.ctv
 TVB娱乐新闻台,https://epg.pw/stream/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8
-TVB PLUS,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
+TVBPLUS,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
 明珠台,https://epg.pw/stream/d10537b7c7bd5042706a9bf58776a08a4c2cbc09a65d612db415bc14ee1b9a13.ctv
 TVB星河台,https://epg.pw/stream/3388eca1a9b5d5c9a7da8bd8b4da3460113b22b0582b44f51a8111fc90f91749.m3u8
 HOY76,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
@@ -19,16 +19,17 @@ HOY78,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 VIUTV,https://epg.pw/stream/e4d66fd4c29cf74a40b5d3bb9743f71e4409147a50bb971428057839a054fd3a.ctv
 VIUTVSIX,http://hksc.vnetidc.hk:61281/bysid/96
 NOW新闻台,ttps://16888.vercel.app/api/xsj.php?id=now-news
-RTHK 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-RTHK 32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 凤凰卫视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 壹新闻,http://49.235.110.121:9090/898/peda/twjd.php?id=49
 壹新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1242
+壹新闻,https://epg.pw/stream/bfd91755315d977105d93121ffc19ffb76337ab15d28de83c64352b4dde2662c.m3u8
 TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
-TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBSNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,https://epg.pw/stream/15272fb21a888b3f327e5287863e5f99fa44144977d760e27bc2f99a8229977e.ctv
@@ -44,11 +45,15 @@ TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 华视新闻,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156391&extension=ts
 华视新闻,http://sc2022.stream-link.org/tv2306.php?id=t04
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+东森新闻,https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.m3u8
+东森新闻,https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
 东森新闻,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 东森新闻,https://epg.pw/stream/7872a236f1393aa913844a130912aa8891f4bbf96841157ed4605778bc0bc62f.m3u8
 东森财经新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立iNEWS,https://epg.pw/stream/355445c29dfc6d7aeeab06dc831477945355890318886c5be26e7c221ef243d9.m3u8
+三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -56,14 +61,14 @@ TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
-TVBS ASIA,https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
+TVBSASIA,https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
 华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
-FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 FRANCE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 CBN,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 CBSHD,http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
