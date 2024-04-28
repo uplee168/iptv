@@ -93,6 +93,8 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 http://51.89.21.73:27347/livehttpplay?channel_id=20152
 #EXTINF:-1 tvg-id="232352" tvg-name="HOY 78" tvg-logo="" group-title="NET",HOY78
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",HOY 76
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="NET",壹新闻
 http://49.235.110.121:9090/898/peda/twjd.php?id=49
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="NET",壹新闻
@@ -155,6 +157,8 @@ http://38.96.178.201:80/live/TeenNick/index.m3u8
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="KIDS",Nick Jr
 http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512210531766962_16.jpg" group-title="KIDS",Discovery kids
+https://epg.pw/stream/16e7322b146c0edbaa6db49ca5957c6636b6a9394ad4ba5410f841af98c01bec.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Kidoodle TV
 https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",KidsFlix
@@ -173,8 +177,6 @@ http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=
 http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MB8B2268792122687921&ct=19669&tsum=b8cacd287675dec973fa12ee2a4ed4ce
 #EXTINF:-1 tvg-id="232359" tvg-name="ViuTV Six" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="KIDS",ViuTV6
 http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",HOY 76
-https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="KIDS",CN卡通
 http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=MFDF1103375311033753&ct=19669&tsum=6fb24e321f8d107b2b084599c5d0d807
 #EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="KIDS",CN卡通
