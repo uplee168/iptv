@@ -117,6 +117,7 @@ Nat Geo Wild,https://epg.pw/stream/9f0be71076c1d9b89a6f1064de278b1217e60763ee9d8
 National Geographic,http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 National Geographic,https://epg.pw/stream/c1f13bf8466acb3e6447b89327b2afc4c979cba7eecca72ade833fae9a1cd30b.m3u8
 National Geographic,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
+National Geographic,https://epg.pw/stream/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.ctv
 国家地理,http://1.24.190.98:10088/hls/120/index.m3u8
 国家地理,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MCAC5533277955332779&ct=19669&tsum=a0fd33455c2f7e0475e1c50b95daf2fe
 国家地理野生,http://streamsy.online:2999/coachj88/N93DPKS9pJ/140
