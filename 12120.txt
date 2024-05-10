@@ -3,14 +3,17 @@ NEWS,#genre#
 翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
 无线新闻,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq
+无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
 无线新闻,https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
 无线新闻,https://epg.pw/stream/1d57a34778340406c923ddde53b9bbfd4903d711783cf2d6eda414ce79d59f07.ctv
 无线新闻,https://epg.pw/stream/cf9a086284373e6083058ffee13a822e2e193f5e19d3ff25b6e90062e4109c89.ctv
 无线财经新闻,https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
+无线财经新闻,https://pull-f5-spe.ixigua.com/yeslivetv.com/944048695-106799677/index.m3u8
+无线财经新闻,https://cdn.hklive.tv/xxxx/85/index.m3u8
 娱乐新闻台,https://epg.pw/stream/f9efb8d90b794167021e488f94eca9fca27ebd9a457141905d28cf3de633392e.ctv
 娱乐新闻台,https://epg.pw/stream/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8
 J2,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
+明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
 明珠台,https://epg.pw/stream/d10537b7c7bd5042706a9bf58776a08a4c2cbc09a65d612db415bc14ee1b9a13.ctv
 TVB星河台,https://epg.pw/stream/3388eca1a9b5d5c9a7da8bd8b4da3460113b22b0582b44f51a8111fc90f91749.m3u8
 HOY76,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
@@ -18,8 +21,9 @@ HOY77,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY77,http://51.89.21.73:27347/livehttpplay?channel_id=20152
 HOY78,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 VIUTV,https://epg.pw/stream/e4d66fd4c29cf74a40b5d3bb9743f71e4409147a50bb971428057839a054fd3a.ctv
+VIUTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u8
 VIUTVSIX,http://hksc.vnetidc.hk:61281/bysid/96
-NOW新闻台,ttps://16888.vercel.app/api/xsj.php?id=now-news
+VIUTVSIX,https://pull-f5-spe.ixigua.com/yeslivetv.com/154548299-581799927/index.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 凤凰卫视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
@@ -173,8 +177,8 @@ HBO家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&
 HBO原创,http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MBDB3207246932072469&ct=19669&tsum=98c883b26f09203891c6febf9365efd2
 HBO原创,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 HBO原创,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-AXN TW,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-AXN TW,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+AXNTW,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+AXNTW,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 CINEMAX,http://170.254.18.106/CINEMAX/index.m3u8
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 DMAX,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
@@ -185,13 +189,15 @@ Hollywood,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE56
 Hollywood,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 Hollywood,https://epg.pw/stream/856120e8ee2029d1e8a5984b2ee23320b8e768a4e90544fce77d3ee8cbb3a05c.m3u8
 Hollywood,https://epg.pw/stream/cb974b3858e96b0f844f145346f9f301213096aabd05986c7da17f19c9035361.m3u8
+Young Hollywood,https://younghollywood-rakuten.amagi.tv/playlist.m3u8
 NETFLIX,https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-RAKUTEN TV,https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-RAKUTEN TV,https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+RAKUTENTV,https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+RAKUTENTV,https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
 SBT,http://208.115.225.174:14170
 Smithsonian,https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
 STAR MOVIES,http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 THE KPOP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+tvNMovie,https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
 tvNMovie,http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
 WB,http://208.115.225.174:14132
 东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
