@@ -49,6 +49,7 @@ TVBSNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 民视新闻,https://epg.pw/stream/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc510aa794d313.m3u8
 华视新闻,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156391&extension=ts
 华视新闻,http://sc2022.stream-link.org/tv2306.php?id=t04
+华视新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 东森新闻,https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.m3u8
 东森新闻,https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
@@ -59,6 +60,7 @@ TVBSNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立iNEWS,https://epg.pw/stream/355445c29dfc6d7aeeab06dc831477945355890318886c5be26e7c221ef243d9.m3u8
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
+三立新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -87,13 +89,16 @@ DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 
 KIDS,#genre#
 NICKENITE,http://143.244.60.30/NICKELODEON/index.m3u8
+NICKELODEON,http://streaming.tv-teleport.ru/Nickelodeon/index.m3u8
 NICKELODEON,http://kino-1.catcast.tv/content/38617/index.m3u8
 NICKELODEON,http://143.244.60.30/NICKELODEON/index.m3u8
 NICKELODEON, http://iptv-telik.usite.pro/load/0-0-1-125-20
 NICKTEEN,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 NICKTOONS,https://stream01.vnet.am/Boomerang/mono.m3u8
 NICKTOONS,http://89.254.128.5:22280/nicktoons/video.m3u8
+NICKTOONS,http://143.244.60.30/NICKTOONS/index.m3u8
 NICKJR.,http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
+NICKHD,https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 DISCOVERY KIDS,https://epg.pw/stream/16e7322b146c0edbaa6db49ca5957c6636b6a9394ad4ba5410f841af98c01bec.ctv
 MOONBUG KIDS,https://moonbug-rokuus.amagi.tv/playlist.m3u8
 MOONBUG KIDS,http://198.16.100.90:8278/MiaoMi/playlist.m3u8?tid=MD3D6451573464515734&ct=19249&tsum=a88d7f5e564622f588e26dbb3743d86b
@@ -102,11 +107,13 @@ KIDSFLIX,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 HAPPY KIDS,https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 PBS Kids,https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 СТС Kids,http://stream02.vnet.am/DisneyChannel/mono.m3u8
+KandelaTV,https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8KandelaTV
 CN卡通,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=MFDF1103375311033753&ct=19669&tsum=6fb24e321f8d107b2b084599c5d0d807
 CN卡通,http://125.227.210.55:46493/VideoInput/play.ts
 CN卡通,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+Cartoon Network,http://89.254.128.5:22280/cartoon_network/index.m3u8
 Cartoon Network,https://streamer1.connectto.com/ARTN_mobile/index.m3u8
-Cartoon Network,https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+Cartoon Network,https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 靖天卡通,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MB8B2268792122687921&ct=19669&tsum=b8cacd287675dec973fa12ee2a4ed4ce
@@ -132,6 +139,7 @@ National Geographic,http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m
 National Geographic,https://epg.pw/stream/c1f13bf8466acb3e6447b89327b2afc4c979cba7eecca72ade833fae9a1cd30b.m3u8
 National Geographic,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
 National Geographic,https://epg.pw/stream/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.ctv
+National Geographic,https://live-fi.tvkaista.net/national-geographic/live.m3u8
 国家地理,http://1.24.190.98:10088/hls/120/index.m3u8
 国家地理,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MCAC5533277955332779&ct=19669&tsum=a0fd33455c2f7e0475e1c50b95daf2fe
 国家地理野生,http://streamsy.online:2999/coachj88/N93DPKS9pJ/140
@@ -183,6 +191,8 @@ CINEMAX,http://170.254.18.106/CINEMAX/index.m3u8
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 DMAX,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 DMAX,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
+SONY MOVIES,http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+SONY PIX,https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 DREAMWORKS,http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
 Fox Movies,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 Hollywood,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
@@ -196,6 +206,7 @@ RAKUTENTV,https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
 SBT,http://208.115.225.174:14170
 Smithsonian,https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
 STAR MOVIES,http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+STAR FAMILY,http://89.254.128.5:22280/star_family_hd/video.m3u8
 THE KPOP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 tvNMovie,https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
 tvNMovie,http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
