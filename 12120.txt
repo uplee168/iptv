@@ -1,6 +1,8 @@
 NEWS,#genre#
 
-翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
+翡翠台,https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
+翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
+翡翠台,http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
 无线新闻,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
@@ -13,6 +15,8 @@ NEWS,#genre#
 娱乐新闻台,https://epg.pw/stream/f9efb8d90b794167021e488f94eca9fca27ebd9a457141905d28cf3de633392e.ctv
 娱乐新闻台,https://epg.pw/stream/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8
 J2,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
+J2,http://nz189l149.bb27109.ctm.net:8892/bysid/82
+J2,https://z88.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/index.m3u8
 明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
 明珠台,https://epg.pw/stream/d10537b7c7bd5042706a9bf58776a08a4c2cbc09a65d612db415bc14ee1b9a13.ctv
 TVB星河台,https://epg.pw/stream/3388eca1a9b5d5c9a7da8bd8b4da3460113b22b0582b44f51a8111fc90f91749.m3u8
@@ -103,16 +107,19 @@ DISCOVERY KIDS,https://epg.pw/stream/16e7322b146c0edbaa6db49ca5957c6636b6a9394ad
 MOONBUG KIDS,https://moonbug-rokuus.amagi.tv/playlist.m3u8
 MOONBUG KIDS,http://198.16.100.90:8278/MiaoMi/playlist.m3u8?tid=MD3D6451573464515734&ct=19249&tsum=a88d7f5e564622f588e26dbb3743d86b
 KIDOODLE TV,https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
+KIDOODLE TV,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop&checkedby:iptvcat.com
 KIDSFLIX,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 HAPPY KIDS,https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 PBS Kids,https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 СТС Kids,http://stream02.vnet.am/DisneyChannel/mono.m3u8
-KandelaTV,https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8KandelaTV
+CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=MFDF1103375311033753&ct=19669&tsum=6fb24e321f8d107b2b084599c5d0d807
 CN卡通,http://125.227.210.55:46493/VideoInput/play.ts
 CN卡通,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
-Cartoon Network,http://89.254.128.5:22280/cartoon_network/index.m3u8
 Cartoon Network,https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+Cartoon Network,https://z88.ubtvfans.com/live/rx4/3030/74bee4fba426017eea7c7fab00dacfb9/index.m3u8
+Cartoon Network,http://89.254.128.5:22280/cartoon_network/index.m3u8
 Cartoon Network,https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 靖天卡通,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
@@ -121,18 +128,30 @@ Cartoon Network,https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/pl
 亲子动画02,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 DAVE&AVA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 DISNEY INTERNATIONAL,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
+DISNEY,http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8
+DISNEY,https://z88.ubtvfans.com/live/rx3/1208/6db66813ac171f1c1f02c6c71d7e55b9/index.m3u8
+DISNEY,http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY_7/variant.m3u8?version=2&offset=-18000&checkedby:iptvcat.com
+DISNEY XD,https://z88.ubtvfans.com/live/rx4/31/fab483586fbf9de83a7254e721c8a692/index.m3u8
 DISNEY XD,http://38.96.178.201:80/live/DisneyXD/index.m3u8
 DISNEY XD,https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
 
 ANIMAL,#genre#
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+动物星球,https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
 动物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 动物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MBDB7684924376849243&ct=19669&tsum=9f33896720e9ce7b15a77ae998c49d0b
 动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+ANIMAL PLANET,http://41.205.93.154/ANIMALPLANET/index.m3u8
+ANIMAL PLANET,http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+ANIMAL PLANET,https://z88.ubtvfans.com/live/rx3/1203/33d1306fcabb2d652981fccce7f85d77/index.m3u8
 ANIMAL PLANET,https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8
 ANIMAL PLANET,http://myott.top/stream/DT6QU63K5VX/114.m3u8
-Animal Planet,http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
-Animal Planet,http://208.115.225.174:14192
+ANIMAL PLANET,http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
+ANIMAL PLANET,http://208.115.225.174:14192
+Nat Geo Wild,https://z88.ubtvfans.com/live/rx3/2313/dc4d880705e4db5b333c728c560bdd11/index.m3u8
+Nat Geo Wild,https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
+Nat Geo Wild,https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 Nat Geo Wild,http://stream02.vnet.am/NatGeoWild/mono.m3u8
 Nat Geo Wild,https://epg.pw/stream/9f0be71076c1d9b89a6f1064de278b1217e60763ee9d89a2296367cba33833d5.m3u8
 National Geographic,http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
