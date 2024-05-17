@@ -26,8 +26,8 @@ HOY77,http://51.89.21.73:27347/livehttpplay?channel_id=20152
 HOY78,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 VIUTV,https://epg.pw/stream/e4d66fd4c29cf74a40b5d3bb9743f71e4409147a50bb971428057839a054fd3a.ctv
 VIUTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u8
-VIUTVSIX,http://hksc.vnetidc.hk:61281/bysid/96
-VIUTVSIX,https://pull-f5-spe.ixigua.com/yeslivetv.com/154548299-581799927/index.m3u8
+VIUTV SIX,http://hksc.vnetidc.hk:61281/bysid/96
+VIUTV SIX,https://pull-f5-spe.ixigua.com/yeslivetv.com/154548299-581799927/index.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 凤凰卫视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
@@ -38,7 +38,7 @@ RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 壹新闻,https://epg.pw/stream/bfd91755315d977105d93121ffc19ffb76337ab15d28de83c64352b4dde2662c.m3u8
 TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
-TVBSNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,https://epg.pw/stream/15272fb21a888b3f327e5287863e5f99fa44144977d760e27bc2f99a8229977e.ctv
@@ -51,10 +51,14 @@ TVBSNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 民视新闻,https://epg.pw/stream/2603220ae7a890e8e1027a6362e9aaec880131ce06da58c4e89365ce6d410772.m3u8
 民视新闻,https://epg.pw/stream/c8bfbc31e5af4b4d07b7222dc9ac9315dd57fbd663daafea3ce611c5bc57cf83.m3u8
 民视新闻,https://epg.pw/stream/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc510aa794d313.m3u8
+华视新闻,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
+华视新闻,https://z88.ubtvfans.com/live/rx6/1171/058ed1ce3a191d38f0e5918d5f655e3a/index.m3u8
 华视新闻,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156391&extension=ts
 华视新闻,http://sc2022.stream-link.org/tv2306.php?id=t04
 华视新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新闻,https://z88.ubtvfans.com/live/rx6/2401//index.m3u8
+寰宇新闻,https://z88.ubtvfans.com/live/rx6/304/90b7f77306d00f55293802b34ac88952/index.m3u8
 东森新闻,https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.m3u8
 东森新闻,https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
 东森新闻,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
@@ -72,14 +76,14 @@ TVBSNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
-TVBSASIA,https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
+TVBS ASIA,https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
 华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
-FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 FRANCE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 CBN,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 CBSHD,http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
@@ -176,27 +180,42 @@ WILD SIDE,https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 WILDEARTH,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
 MOVIES,#genre#
+HBO,http://41.205.93.154/HBO/index.m3u8
+HBO,http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
 HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 HBO,http://208.115.225.174:14136
 HBO,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10117
 HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
-HBO,http://41.205.93.154/HBO/index.m3u8
 HBO,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10618
-HBOFAMILY,http://170.254.18.106/HBO_FAMILY/index.m3u8
-HBOFHD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10293
-HBOHD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-HBOHD,http://125.227.210.55:35210/VideoInput/play.ts
-HBOHD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-HBOMundi,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10620
-HBOPLUS,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10119
-HBOPOP,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10123
-HBOSIGNATURE,http://170.254.18.106/HBO_SIG/index.m3u8
-HBOXTREME,http://170.254.18.106/HBO_XTREME/index.m3u8
+HBO2,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+HBO2,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 HBO2,http://170.254.18.106/HBO2/index.m3u8
 HBO2,http://208.115.225.174:14140
 HBO2,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10118
-HBO2,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10740
+HBO HD,https://s.vdo.ai/vhs/1.m3u8
+HBO HD,https://z88.ubtvfans.com/live/rx4/2975/8390c59c4f230d80da53979ba4f0d123/index.m3u8
+HBO HD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+HBO HD,http://125.227.210.55:35210/VideoInput/play.ts
+HBO HD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+HBO FHD,http://203.77.246.6:443/udp/239.1.3.84:5000
+HBO FHD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10293
+HBO FAMILY,https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+HBO FAMILY,https://z88.ubtvfans.com/live/rx3/1113/3f35d526fe83d1dddcf0dd0109c037f4/index.m3u8
+HBO FAMILY,http://170.254.18.106/HBO_FAMILY/index.m3u8
+HBO SIGNATURE,http://170.254.18.106/HBO_SIG/index.m3u8
+HBO SIGNATURE,https://z88.ubtvfans.com/live/rx3/1112/8bcf659207ab72c3bfab564b71fb04d6/index.m3u8
+HBO SIGNATURE,http://170.254.18.106/HBO_SIG/index.m3u8
+HBO XTREME,http://170.254.18.106/HBO_XTREME/index.m3u8
+HBO XTREME,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+HBO HITS,https://z88.ubtvfans.com/live/rx4/2991/273a7fe8625fa0c90e023c22b85b0121/index.m3u8
+HBO Mundi,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10620
+HBO PREMIUM,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+HBO PREMIUM,http://62.210.209.138:41000/movie/v52/v43/6870.mp4
+HBO PLUS,https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+HBO PLUS,http://170.254.18.106/HBO_PLUS/index.m3u8
+HBO PLUS,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10119
+HBO POP,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10123
 HBO家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 HBO家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 HBO家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
@@ -204,24 +223,30 @@ HBO家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&
 HBO原创,http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MBDB3207246932072469&ct=19669&tsum=98c883b26f09203891c6febf9365efd2
 HBO原创,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 HBO原创,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+AXNTW,https://epg.pw/stream/c559d1a8812da9564657e62bf1f132f2a5261c7372fcc995ed870ec6b96eac8d.m3u8
 AXNTW,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 AXNTW,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 CINEMAX,http://170.254.18.106/CINEMAX/index.m3u8
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 DMAX,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 DMAX,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
-SONY MOVIES,http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-SONY PIX,https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+SONY AXN,https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+SONY MOVIES,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+SONY MOVIES,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+SONY PIX,https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+SONY SIX,https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+DREAMWORKS,http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
+DREAMWORKS,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941656
+DREAMWORKS,https://z88.ubtvfans.com/live/rx1/48/5c5c9aa7907a8da4fe48f9933cf8089d/index.m3u8
 DREAMWORKS,http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
-Fox Movies,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
-Hollywood,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
-Hollywood,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-Hollywood,https://epg.pw/stream/856120e8ee2029d1e8a5984b2ee23320b8e768a4e90544fce77d3ee8cbb3a05c.m3u8
-Hollywood,https://epg.pw/stream/cb974b3858e96b0f844f145346f9f301213096aabd05986c7da17f19c9035361.m3u8
-Young Hollywood,https://younghollywood-rakuten.amagi.tv/playlist.m3u8
+FOX MOVIES,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+FOX MOVIES,https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+HOLLYWOOD,http://myott.top/stream/DT6QU63K5VX/268.m3u8
+HOLLYWOOD,http://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/index.m3u8
+HOLLYWOOD,http://stream01.vnet.am/ParamountChannel/mono.m3u8
+YOUNG HOLLYWOOD,https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+YOUNG HOLLYWOOD,https://younghollywood-tcl.amagi.tv/playlist.m3u8
 NETFLIX,https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-RAKUTENTV,https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-RAKUTENTV,https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
 SBT,http://208.115.225.174:14170
 Smithsonian,https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
 STAR MOVIES,http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
