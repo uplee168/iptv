@@ -9,7 +9,6 @@ NEWS,#genre#
 无线财经新闻,https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
 无线财经新闻,https://pull-f5-spe.ixigua.com/yeslivetv.com/944048695-106799677/index.m3u8
 无线财经新闻,https://cdn.hklive.tv/xxxx/85/index.m3u8
-娱乐新闻台,https://epg.pw/stream/f9efb8d90b794167021e488f94eca9fca27ebd9a457141905d28cf3de633392e.ctv
 娱乐新闻台,https://epg.pw/stream/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8
 J2,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
 J2,http://nz189l149.bb27109.ctm.net:8892/bysid/82
@@ -95,13 +94,10 @@ DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 KIDS,#genre#
 NICKENITE,http://143.244.60.30/NICKELODEON/index.m3u8
 NICKELODEON,http://streaming.tv-teleport.ru/Nickelodeon/index.m3u8
-NICKELODEON,http://kino-1.catcast.tv/content/38617/index.m3u8
-NICKELODEON,http://143.244.60.30/NICKELODEON/index.m3u8
-NICKELODEON, http://iptv-telik.usite.pro/load/0-0-1-125-20
-NICKTEEN,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+NICKELODEON,http://iptv-telik.usite.pro/load/0-0-1-125-20
 NICKTOONS,https://stream01.vnet.am/Boomerang/mono.m3u8
 NICKTOONS,http://89.254.128.5:22280/nicktoons/video.m3u8
-NICKTOONS,http://143.244.60.30/NICKTOONS/index.m3u8
+NICKTEEN,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 NICKJR.,http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
 NICKHD,https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 DISCOVERY KIDS,https://epg.pw/stream/16e7322b146c0edbaa6db49ca5957c6636b6a9394ad4ba5410f841af98c01bec.ctv
