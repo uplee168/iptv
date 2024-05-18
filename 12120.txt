@@ -152,34 +152,26 @@ LOVE NATURE,https://epg.pw/stream/59c05b5f45ace2ee35d58a647079e8c79d2c9d622f35a2
 LOVE NATURE,https://epg.pw/stream/9738bfc90d9cd020ee8a9797361cfde7c85528dadd9638913a2dc0114384c687.m3u8
 DISCOVERY,http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
 DISCOVERY,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-探索频道,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-探索频道,http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 OUTDOOR,http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
 WILD SIDE,https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 WILDEARTH,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
 MOVIES,#genre#
 HBO,http://41.205.93.154/HBO/index.m3u8
-HBO,http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
 HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 HBO,http://208.115.225.174:14136
 HBO,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10117
 HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MD8D8657370786573707&ct=19669&tsum=d9a5d33e03bacd41bda7b20f8e7f68b1
 HBO,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10618
-HBO2,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-HBO2,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 HBO2,http://170.254.18.106/HBO2/index.m3u8
 HBO2,http://208.115.225.174:14140
 HBO2,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10118
-HBO HD,https://s.vdo.ai/vhs/1.m3u8
 HBO HD,https://z88.ubtvfans.com/live/rx4/2975/8390c59c4f230d80da53979ba4f0d123/index.m3u8
 HBO HD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 HBO HD,http://125.227.210.55:35210/VideoInput/play.ts
 HBO HD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
 HBO FHD,http://203.77.246.6:443/udp/239.1.3.84:5000
 HBO FHD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10293
-HBO FAMILY,https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 HBO FAMILY,https://z88.ubtvfans.com/live/rx3/1113/3f35d526fe83d1dddcf0dd0109c037f4/index.m3u8
 HBO FAMILY,http://170.254.18.106/HBO_FAMILY/index.m3u8
 HBO SIGNATURE,http://170.254.18.106/HBO_SIG/index.m3u8
