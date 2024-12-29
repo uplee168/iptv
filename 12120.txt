@@ -15,8 +15,6 @@ VIUTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 VIUTV SIX,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-凤凰卫视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
 壹新闻,http://211.72.65.236:8548/.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
