@@ -1,11 +1,7 @@
 NEWS,#genre#
 
 翡翠台,https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
-无线新闻,https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
-无线新闻,https://epg.pw/stream/1d57a34778340406c923ddde53b9bbfd4903d711783cf2d6eda414ce79d59f07.ctv
-无线新闻,https://epg.pw/stream/cf9a086284373e6083058ffee13a822e2e193f5e19d3ff25b6e90062e4109c89.ctv
+无线新闻,https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 无线财经新闻,https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
 无线财经新闻,https://pull-f5-spe.ixigua.com/yeslivetv.com/944048695-106799677/index.m3u8
 无线财经新闻,https://cdn.hklive.tv/xxxx/85/index.m3u8
