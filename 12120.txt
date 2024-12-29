@@ -1,6 +1,6 @@
 NEWS,#genre#
 
-翡翠台,https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
+翡翠台,https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
 无线新闻,https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
