@@ -45,7 +45,7 @@ NICKELODEON,http://iptv-telik.usite.pro/load/0-0-1-125-20
 NICKTOONS,https://stream01.vnet.am/Boomerang/mono.m3u8
 NICKTOONS,http://89.254.128.5:22280/nicktoons/video.m3u8
 NICKTEEN,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-NICKJR.,http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
+NICKJR,http://myott.top/stream/DT6QU63K5VX/220.m3u8
 NICKHD,https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 DISCOVERY KIDS,https://epg.pw/stream/16e7322b146c0edbaa6db49ca5957c6636b6a9394ad4ba5410f841af98c01bec.ctv
 MOONBUG KIDS,https://moonbug-rokuus.amagi.tv/playlist.m3u8
