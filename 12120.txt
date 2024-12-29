@@ -77,16 +77,9 @@ DISNEY XD,https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
 
 ANIMAL,#genre#
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-动物星球,https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
-动物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
-Nat Geo Wild,https://z88.ubtvfans.com/live/rx3/2313/dc4d880705e4db5b333c728c560bdd11/index.m3u8
-Nat Geo Wild,https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
-Nat Geo Wild,https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+动物星球,http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
 Nat Geo Wild,http://stream02.vnet.am/NatGeoWild/mono.m3u8
-Nat Geo Wild,https://epg.pw/stream/9f0be71076c1d9b89a6f1064de278b1217e60763ee9d89a2296367cba33833d5.m3u8
-National Geographic,http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
-National Geographic,https://live-fi.tvkaista.net/national-geographic/live.m3u8
+National Geographic,http://45.159.74.13:80/NationalGeographic/index.m3u8
 国家地理,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141国家地理,http://1.24.190.98:10088/hls/120/index.m3u8
 国家地理,https://epg.pw/stream/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.ctv
 国家地理,https://epg.pw/stream/c1f13bf8466acb3e6447b89327b2afc4c979cba7eecca72ade833fae9a1cd30b.m3u8
