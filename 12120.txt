@@ -80,12 +80,7 @@ ANIMAL,#genre#
 动物星球,http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
 Nat Geo Wild,http://stream02.vnet.am/NatGeoWild/mono.m3u8
 National Geographic,http://45.159.74.13:80/NationalGeographic/index.m3u8
-国家地理,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141国家地理,http://1.24.190.98:10088/hls/120/index.m3u8
-国家地理,https://epg.pw/stream/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.ctv
-国家地理,https://epg.pw/stream/c1f13bf8466acb3e6447b89327b2afc4c979cba7eecca72ade833fae9a1cd30b.m3u8
-国家地理,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MCAC5533277955332779&ct=19669&tsum=a0fd33455c2f7e0475e1c50b95daf2fe
-国家地理野生,http://streamsy.online:2999/coachj88/N93DPKS9pJ/140
-国家地理野生,http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=MAAA1894400518944005&ct=19669&tsum=6bb5ed729263ca3e4af7e1c03fb9cd4b
+国家地理,http://1.24.190.98:10088/hls/120/index.m3u8
 LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 LOVE NATURE,https://epg.pw/stream/63d67f2a207e6f649f16cdeb7dc9eb190a95de243d54505301b3d4b8861ece58.m3u8
 LOVE NATURE,https://epg.pw/stream/59c05b5f45ace2ee35d58a647079e8c79d2c9d622f35a2744e6ca39f1e7d62f1.m3u8
