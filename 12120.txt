@@ -39,29 +39,22 @@ FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 CBSHD,http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
 
 KIDS,#genre#
-NICKENITE,http://143.244.60.30/NICKELODEON/index.m3u8
-NICKELODEON,http://streaming.tv-teleport.ru/Nickelodeon/index.m3u8
-NICKELODEON,http://iptv-telik.usite.pro/load/0-0-1-125-20
+NICKENITE,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+NICKELODEON,http://31.148.48.15:80/Nickelodeon/index.m3u8
+NICKELODEON,http://185.189.225.150:85/nickelodeon/index.m3u8
 NICKTOONS,https://stream01.vnet.am/Boomerang/mono.m3u8
-NICKTOONS,http://89.254.128.5:22280/nicktoons/video.m3u8
-NICKTEEN,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 NICKJR,http://myott.top/stream/DT6QU63K5VX/220.m3u8
 NICKHD,https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 DISCOVERY KIDS,https://epg.pw/stream/16e7322b146c0edbaa6db49ca5957c6636b6a9394ad4ba5410f841af98c01bec.ctv
 MOONBUG KIDS,https://moonbug-rokuus.amagi.tv/playlist.m3u8
-MOONBUG KIDS,http://198.16.100.90:8278/MiaoMi/playlist.m3u8?tid=MD3D6451573464515734&ct=19249&tsum=a88d7f5e564622f588e26dbb3743d86b
-KIDOODLE TV,https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
-KIDOODLE TV,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop&checkedby:iptvcat.com
+KIDOODLE TV,https://stream1.freetv.fun/c9b56985fe40ed1f3d0475662c0b9e02fcdba0db7e41905d6eddbdbe4decddf5.m3u8
 KIDSFLIX,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 HAPPY KIDS,https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
-PBS Kids,https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-СТС Kids,http://stream02.vnet.am/DisneyChannel/mono.m3u8
-CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
-CN卡通,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=MFDF1103375311033753&ct=19669&tsum=6fb24e321f8d107b2b084599c5d0d807
-Cartoon Network,https://z88.ubtvfans.com/live/rx4/3030/74bee4fba426017eea7c7fab00dacfb9/index.m3u8
-Cartoon Network,http://89.254.128.5:22280/cartoon_network/index.m3u8
-Cartoon Network,https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
+PBS KIDS,https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+NETFLIX KIDS,https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+СТС KIDS,http://stream02.vnet.am/DisneyChannel/mono.m3u8
+CN卡通,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+Cartoon Network,http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
 靖天卡通,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MB8B2268792122687921&ct=19669&tsum=b8cacd287675dec973fa12ee2a4ed4ce
@@ -69,11 +62,8 @@ Cartoon Network,https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/pl
 亲子动画02,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 DAVE&AVA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 DISNEY INTERNATIONAL,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
-DISNEY,https://z88.ubtvfans.com/live/rx3/1208/6db66813ac171f1c1f02c6c71d7e55b9/index.m3u8
-DISNEY,http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY_7/variant.m3u8?version=2&offset=-18000&checkedby:iptvcat.com
-DISNEY XD,https://z88.ubtvfans.com/live/rx4/31/fab483586fbf9de83a7254e721c8a692/index.m3u8
+DISNEY,http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8
 DISNEY XD,http://38.96.178.201:80/live/DisneyXD/index.m3u8
-DISNEY XD,https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
 
 ANIMAL,#genre#
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
