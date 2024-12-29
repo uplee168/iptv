@@ -41,16 +41,7 @@ TVBS ASIA,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 华视,http://37.27.111.214:8080/live/8/hls.m3u8
 FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-FRANCE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-CBN,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 CBSHD,http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
-ABC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-ANN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-NBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-新唐人,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-信大,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-运通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 
 KIDS,#genre#
 NICKENITE,http://143.244.60.30/NICKELODEON/index.m3u8
