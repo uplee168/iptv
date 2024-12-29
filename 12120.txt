@@ -83,53 +83,31 @@ WILDEARTH,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
 MOVIES,#genre#
 HBO,http://41.205.93.154/HBO/index.m3u8
-HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
-HBO,http://208.115.225.174:14136
-HBO,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10117
-HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-HBO,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10618
 HBO2,http://170.254.18.106/HBO2/index.m3u8
-HBO2,http://208.115.225.174:14140
-HBO2,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10118
-HBO HD,https://z88.ubtvfans.com/live/rx4/2975/8390c59c4f230d80da53979ba4f0d123/index.m3u8
-HBO HD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-HBO HD,http://125.227.210.55:35210/VideoInput/play.ts
-HBO HD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+HBO3,https://testcam.go.ro:8080/hls/hd365.m3u8
+HBO HD,https://s.vdo.ai/vhs/1.m3u8
 HBO FHD,http://203.77.246.6:443/udp/239.1.3.84:5000
 HBO FHD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10293
-HBO FAMILY,https://z88.ubtvfans.com/live/rx3/1113/3f35d526fe83d1dddcf0dd0109c037f4/index.m3u8
 HBO FAMILY,http://170.254.18.106/HBO_FAMILY/index.m3u8
 HBO SIGNATURE,http://170.254.18.106/HBO_SIG/index.m3u8
-HBO SIGNATURE,https://z88.ubtvfans.com/live/rx3/1112/8bcf659207ab72c3bfab564b71fb04d6/index.m3u8
-HBO SIGNATURE,http://170.254.18.106/HBO_SIG/index.m3u8
 HBO XTREME,http://170.254.18.106/HBO_XTREME/index.m3u8
-HBO XTREME,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 HBO HITS,https://z88.ubtvfans.com/live/rx4/2991/273a7fe8625fa0c90e023c22b85b0121/index.m3u8
-HBO Mundi,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10620
-HBO PREMIUM,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-HBO PREMIUM,http://62.210.209.138:41000/movie/v52/v43/6870.mp4
-HBO PLUS,https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+HBO MUNDI,http://170.254.18.106/HBO_MUNDI/index.m3u8
+HBO PREMIUM,https://s.vdo.ai/vhs/1.m3u8
 HBO PLUS,http://170.254.18.106/HBO_PLUS/index.m3u8
-HBO PLUS,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10119
 HBO POP,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10123
-HBO家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-HBO家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
-HBO家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-HBO家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-HBO原创,http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MBDB3207246932072469&ct=19669&tsum=98c883b26f09203891c6febf9365efd2
-HBO原创,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-HBO原创,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-AXNTW,http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-AXNTW,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO原创,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+AXN,https://streamer1.nexgen.bz/AXN/index.m3u8
+AXNTW,http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 CINEMAX,http://170.254.18.106/CINEMAX/index.m3u8
-CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 DMAX,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 DMAX,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
 SONY AXN,https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-SONY MOVIES,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-SONY MOVIES,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-SONY PIX,https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
-SONY SIX,https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+SONY MOVIES,https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+SONY MIX,https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+SONY PIX,https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+SONY SIX,http://103.81.104.118/hls/stream10.m3u8
 DREAMWORKS,http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
 DREAMWORKS,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941656
 DREAMWORKS,https://z88.ubtvfans.com/live/rx1/48/5c5c9aa7907a8da4fe48f9933cf8089d/index.m3u8
@@ -151,6 +129,4 @@ tvNMovie,https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d
 tvNMovie,http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
 WB,http://208.115.225.174:14132
 东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
-东森洋片,https://epg.pw/stream/8b6c965b023696353ae23ce6216297fa6f2e13236497bcfe9d9955fb69be2259.m3u8
-东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
-东森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
+东森洋片,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
