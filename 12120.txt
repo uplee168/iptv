@@ -102,19 +102,21 @@ DISNEY XD,http://38.96.178.201:80/live/DisneyXD/index.m3u8
 MYTV_SUPER少儿,http://link3.813555.xyz/qyzby/maolin3.php?id=20253
 
 ANIMAL,#genre#
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-动物星球,http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
+Animal Planet,https://live.catvod.com/live.php?id=animalplanet_twn
+Animal Planet,https://live.catvod.com/live.php?id=AnimalPlanet
+Animal Planet,http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+Animal Planet,http://41.205.93.154/ANIMALPLANET/index.m3u8
+Animal Planet,http://myott.top/stream/DT6QU63K5VX/114.m3u8
+Nat Geo Wild,https://live.catvod.com/live.php?id=natgeowild_twn
+Nat Geo Wild,https://tv.arectv13.sbs/live/natgeowild.m3u8
 Nat Geo Wild,http://stream02.vnet.am/NatGeoWild/mono.m3u8
-National Geographic,http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-National Geographic,http://45.159.74.13:80/NationalGeographic/index.m3u8
-国家地理,http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2eb14f9bd15628f5cecf465452eef155
-国家地理,http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
-国家地理,http://1.24.190.98:10088/hls/120/index.m3u8
-国家地理野生,http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-国家地理野生,http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
-LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-LOVE NATURE,http://78.130.250.2:8023/play/a02m/index.m3u8
-LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?cc
+Nat Geo Wild,http://109.233.89.166/National_Geographic_Wild_HD/index.m3u8
+National Geographic,http://178.219.128.68:64889/NATIGEOGHD
+National Geographic,http://62.210.211.188:2095/play/a00d
+National Geographic,http://78.130.250.2:8023/play/a02e/index.m3u8
+LOVE NATURE,https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 DISCOVERY,http://38.96.178.201:80/live/Discovery/index.m3u8
 DISCOVERY,http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
 DISCOVERY,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
@@ -181,10 +183,9 @@ THE KPOP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 tvNMovie,https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
 tvNMovie,http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
 WB,http://208.115.225.174:14132
-东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
-东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
-东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
-东森洋片,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+东森洋片,http://iptv.4666888.xyz/iptv2A.php?id=45
+龙华洋片,https://live.catvod.com/iptv.php?id=lhyp01
 Plus综合AKtv,https://s3.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
 Plus综合AKtv,https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
 PopC电影AKtv,https://s3.m16tv.cfd/aktv/popc/AKTV.m3u8
@@ -523,6 +524,3 @@ CINEMAXHD,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=NuXxHW&tk=3wuGai9ZV7
 电影_死神来了,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=fKZd5E&tk=3wuGai9ZV78K
 电影_变形金刚,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=rCANzw&tk=3wuGai9ZV78K
 电影_怪兽系列,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=bMe9P4&tk=3wuGai9ZV78K
-
-
-
