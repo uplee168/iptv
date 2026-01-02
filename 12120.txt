@@ -18,6 +18,8 @@ J2,hhttp://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=192
 明珠台,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 TVB星河台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+NOW TV,http://116.202.238.88/FOXTV_TR/index.m3u8
+NOW TV,http://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
 HOY76,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 HOY76,http://27.46.95.90:800/hls/1872445994/index.m3u8
 HOY77,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
@@ -72,11 +74,13 @@ FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 CBSHD,http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
 
 KIDS,#genre#
-NICKENITE,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-NICKELODEON,http://31.148.48.15:80/Nickelodeon/index.m3u8
+NICKELODEON,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 NICKELODEON,http://185.189.225.150:85/nickelodeon/index.m3u8
+NICKELODEON,https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+NICKELODEON,http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+NICKTOONS,https://flexi-s1.purplecdn.xyz/NickToons/tracks-v1a1/mono.ts.m3u8
 NICKTOONS,https://stream01.vnet.am/Boomerang/mono.m3u8
-NICKJR,http://fl3.moveonjoy.com/NICK_JR/index.m3u8
+NICKJR,http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
 NICKJR,http://myott.top/stream/DT6QU63K5VX/220.m3u8
 NICKHD,https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 DISCOVERY KIDS,https://epg.pw/stream/16e7322b146c0edbaa6db49ca5957c6636b6a9394ad4ba5410f841af98c01bec.ctv
@@ -87,12 +91,11 @@ HAPPY KIDS,https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 PBS KIDS,https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 NETFLIX KIDS,https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 СТС KIDS,http://stream02.vnet.am/DisneyChannel/mono.m3u8
-CN卡通,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
-Cartoon Network,https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-Cartoon Network,http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
-靖天卡通,http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
-靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
-靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MB8B2268792122687921&ct=19669&tsum=b8cacd287675dec973fa12ee2a4ed4ce
+Cartoon Network,https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
+Cartoon Network,https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+Cartoon Network,http://109.233.89.166/Cartoon_Network_HD/index.m3u8
+龙华卡通,https://live.catvod.com/iptv.php?id=lhkt01
+靖天卡通,https://live.catvod.com/live.php?id=jingtiancartoon_twn
 亲子动画01,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
 亲子动画02,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 DAVE&AVA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
@@ -154,15 +157,17 @@ HBO亚洲,http://122.117.71.103:8556/http/220.130.87.218:8081/hls/71/813/ch041.m
 AXN,https://streamer1.nexgen.bz/AXN/index.m3u8
 AXN,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
 AXNTW,https://live.catvod.com/live.php?id=axn_twn
-CINEMAX,http://170.254.18.106/CINEMAX/index.m3u8
-CINEMAX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
+CINEMAX,http://148.113.160.49:14199
+CINEMAX,https://live.catvod.com/live.php?id=cinemax_twn
+CINEMAX,http://109.233.89.166/CINEMAX_HD/index.m3u8
+CINEMAX,http://109.233.89.166/CINEMAX_2_HD/index.m3u8
 DMAX,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 DMAX,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
 SONY AXN,https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-SONY MOVIES,https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-SONY MIX,https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-SONY PIX,https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+SONY MOVIES,https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 SONY SIX,http://103.81.104.118/hls/stream10.m3u8
+SONY PIX,http://87.255.35.150:18495
+SONY MAX,https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 DREAMWORKS,http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
 DREAMWORKS,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=941656
 DREAMWORKS,https://z88.ubtvfans.com/live/rx1/48/5c5c9aa7907a8da4fe48f9933cf8089d/index.m3u8
@@ -524,3 +529,4 @@ CINEMAXHD,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=NuXxHW&tk=3wuGai9ZV7
 电影_死神来了,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=fKZd5E&tk=3wuGai9ZV78K
 电影_变形金刚,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=rCANzw&tk=3wuGai9ZV78K
 电影_怪兽系列,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=bMe9P4&tk=3wuGai9ZV78K
+
