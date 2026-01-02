@@ -126,27 +126,23 @@ WILDEARTH,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 MOVIES,#genre#
 HBO,http://148.113.160.49:14187
 HBO,https://live.catvod.com/live.php?id=hbohd_twn
-HBO2,https://fl5.moveonjoy.com/HBO_2/index.m3u8
-HBO2,http://170.254.18.106/HBO2/index.m3u8
-HBO3,http://51.254.199.122:8080/bossbrothersTV/index.m3u8
-HBO3,http://stream.nmih.hu:7960/live.m3u8
-HBO3,https://testcam.go.ro:8080/hls/hd365.m3u8
-HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-HBO HD,http://50.7.234.10:8278/Hbo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d45ccf70554fc40a5e4679209f61fbe9
+HBO2,http://178.219.128.68:64888/HBO2HD
+HBO2,http://109.233.89.166/HBO_2_HD/index.m3u8
+HBO3,http://178.219.128.68:64888/HBO3HD
+HBO3,http://109.233.89.166/HBO_3_HD/index.m3u8
+HBO HD,http://smart.cityq.xyz:8278/Hbo/playlist.m3u8?tid=MBFB6285247862852478&ct=20241&tsum=3dfc96c23ea99264ac3f9f239ec9b589
+HBO HD,https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
 HBO HD,https://s.vdo.ai/vhs/1.m3u8
 HBO FHD,http://203.77.246.6:443/udp/239.1.3.84:5000
 HBO FHD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10293
-HBO FAMILY,http://50.7.234.10:8278/Hbofamily/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=4b38e6d57242e62a2043799c3cb4178a
-HBO FAMILY,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8c918e6353a4e9c3d8356df9c1af507f
-HBO FAMILY,http://170.254.18.106/HBO_FAMILY/index.m3u8
-HBO FAMILY,http://fm1077.serv00.net/Smart.php?id=Hbofamily
-HBO SIGNATURE,http://170.254.18.106/HBO_SIG/index.m3u8
-HBO XTREME,http://170.254.18.106/HBO_XTREME/index.m3u8
-HBO HITS,https://z88.ubtvfans.com/live/rx4/2991/273a7fe8625fa0c90e023c22b85b0121/index.m3u8
+HBO FAMILY,https://live.catvod.com/live.php?id=Hbofamily
+HBO SIGNATURE,https://live.catvod.com/live.php?id=Hbosignature
+HBO XTREME,http://148.113.160.49:14175
+HBO HITS,https://live.catvod.com/live.php?id=hbohit_twn
 HBO MUNDI,http://170.254.18.106/HBO_MUNDI/index.m3u8
 HBO PREMIUM,https://s.vdo.ai/vhs/1.m3u8
 HBO PLUS,http://170.254.18.106/HBO_PLUS/index.m3u8
-HBO POP,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10123
+HBO POP,http://148.113.160.49:14180/
 HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 HBO原创,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
@@ -216,22 +212,13 @@ HBo电影3,http://live4play.uk/livehttpplay?channel_id=20093
 AMC電影台,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
 AMC電影台,http://aktv-stream.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
 AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
-HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
-HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
-HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-东森电影,p2p://142.54.189.229:7575/64df13a000050e5604aad25477514fbe.ts
-好莱坞电影,p2p://142.54.189.229:7575/64df134600097ad804a973ed5c03697a.ts
-凤凰电影,https://ali.hlspull.yximgs.com/live/diyp_fhdy.flv
-星光影视,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 Now星影(粤语),http://link3.813555.xyz/qyzby/maolin3.php?id=20093
 Now爆谷(粤语),http://link3.813555.xyz/qyzby/maolin3.php?id=20094
 Now星影(国语),http://link3.813555.xyz/qyzby/maolin3.php?id=20095
 Now爆谷(国语),http://link3.813555.xyz/qyzby/maolin3.php?id=20096
-PopC电影,http://link3.813555.xyz/qyzby/maolin3.php?id=20109
 美亚电影(台),http://link3.813555.xyz/qyzby/maolin3.php?id=20110
 美亚电影(港),http://link3.813555.xyz/qyzby/maolin3.php?id=20111
 美亚电影(港),http://link3.813555.xyz/qyzby/maolin3.php?id=1223
-星光视界,http://link3.813555.xyz/qyzby/maolin3.php?id=20112
 
 极速港台,#genre#
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
@@ -536,5 +523,6 @@ CINEMAXHD,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=NuXxHW&tk=3wuGai9ZV7
 电影_死神来了,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=fKZd5E&tk=3wuGai9ZV78K
 电影_变形金刚,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=rCANzw&tk=3wuGai9ZV78K
 电影_怪兽系列,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=bMe9P4&tk=3wuGai9ZV78K
+
 
 
