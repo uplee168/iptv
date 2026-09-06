@@ -5,6 +5,12 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="NEWS",翡翠台
 https://live.catvod.com/live.php?id=Jade_xue
+#EXTINF:-1 group-title="NEWS",翡翠台
+https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&t=1787053193&token=8817b903242b318e86c82bc
+#EXTINF:-1 group-title="NEWS",翡翠剧集台
+https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BF%A1%E7%BF%A0%E5%89%A7%E9%9B%86%E5%8F%B0&t=1787053193&token=cf9e3e966
+#EXTINF:-1 group-title="NEWS",明珠台
+https://sys.lysvc.cc/iptv_test/main.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1787053193&token=83580324e24efb1089101506b
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png" group-title="NEWS",无线新闻
 http://smart.cityq.xyz:8278/inews_twn/playlist.m3u8?tid=ME3E4305907643059076&ct=20075&tsum=0a5fcbca5a1cc7901ffb7014dc9604c9
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png" group-title="NEWS",无线新闻
@@ -13,6 +19,8 @@ https://cdn6.101.qzz.io/163189/wxxw
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png" group-title="NEWS",无线新闻
 https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+#EXTINF:-1 group-title="NEWS",无线新闻
+https://sys.lysvc.cc/iptv_test/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&t=1787053193&token=1ad9993d27c19083
 #EXTINF:-1 tvg-name="无线财经新闻" tvg-logo="https://live.fanmingming.cn/tv/无线财经新闻.png" group-title="NEWS",无线财经新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthfgfbvcfghjyfjsjbcvxjvbxjsfjfjsehbvbjtvbd5.flv
 #EXTINF:-1 tvg-name="Now新闻" tvg-logo="https://live.fanmingming.cn/tv/Now新闻.png" group-title="NEWS",Now新闻
@@ -53,6 +61,8 @@ http://27.46.95.90:800/hls/1868454448/index.m3u8
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.cn/tv/HOY78.png" group-title="NEWS",HOY78
 http://27.46.95.90:800/hls/1868314925/index.m3u8
+#EXTINF:-1 group-title="NEWS",HOY TV
+https://sys.lysvc.cc/iptv_test/main.php?id=HOY+TV&t=1787792181&token=ab4a31a98b1c76dfe563b6fa9d9b97c9
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.cn/tv/VIUTV.png" group-title="NEWS",VIUTV
 http://27.46.95.90:800/hls/1864291364/index.m3u8
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.cn/tv/VIUTV.png" group-title="NEWS",VIUTV
@@ -85,10 +95,14 @@ http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=1924
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻.png" group-title="NEWS",民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="NEWS",民视新闻
+https://sys.lysvc.cc/iptv_test/main.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB&t=1787595718&token=3c8677b607b5185
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.cn/tv/华视新闻.png" group-title="NEWS",华视新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv052
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.cn/tv/华视新闻.png" group-title="NEWS",华视新闻
 http://cookies.elementfx.com/ublive/ublive.php?id=2424
+#EXTINF:-1 group-title="NEWS",华视新闻
+https://sys.lysvc.cc/iptv_test/main.php?id=%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB&t=1787053193&token=d36bbd8e48674
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻.png" group-title="NEWS",寰宇新闻
 http://122.117.71.103:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻.png" group-title="NEWS",寰宇新闻
@@ -101,6 +115,8 @@ http://8.iptv543.com:50009/of-4gtv-4gtv156/index.m3u8?proxy=true
 http://37.27.111.214:8080/live/63/hls.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.cn/tv/东森新闻.png" group-title="NEWS",东森新闻
 https://epg.pw/stream/9787fc554f1f1386e7741a9967b3bf15740a19429fa12aa5760a266316b7f0ce.m3u8
+#EXTINF:-1 group-title="NEWS",东森新闻
+https://sys.lysvc.cc/iptv_test/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1787226392&token=6e83d8bd6eedb47c
 #EXTINF:-1 tvg-name="东森LIVE" tvg-logo="https://live.fanmingming.cn/tv/东森LIVE.png" group-title="NEWS",东森LIVE
 http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 #EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.cn/tv/东森财经新闻.png" group-title="NEWS",东森财经新闻
@@ -137,12 +153,24 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.cn/tv/华视.png" group-title="NEWS",华视
 http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="NEWS",民视-HD
+rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://live.fanmingming.cn/tv/FOX NEWS.png" group-title="NEWS",FOX NEWS
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://live.fanmingming.cn/tv/FOX NEWS.png" group-title="NEWS",FOX NEWS
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-name="CBSHD" tvg-logo="https://live.fanmingming.cn/tv/CBSHD.png" group-title="NEWS",CBSHD
 http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+#EXTINF:-1 group-title="NEWS",TVBS新闻
+https://sys.lysvc.cc/iptv_test/main.php?id=TVBS%E6%96%B0%E9%97%BB&t=1787965668&token=1e02315b45df4a53d3da4242119ec0cd
+#EXTINF:-1 group-title="NEWS",翡翠台4K
+https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B04K%28%E5%AD%97%E5%B9%95%29&t=1787965668&token=f241edc8197d154082d46edf789fb669
+#EXTINF:-1 group-title="NEWS",五星体育HD
+https://sys.lysvc.cc/iptv_test/main.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2HD&t=1787595718&token=f58b5d8b8750b
+#EXTINF:-1 group-title="NEWS",华丽翡翠台
+https://sys.lysvc.cc/iptv_test/main.php?id=%E5%8D%8E%E4%B8%BD%E7%BF%A1%E7%BF%A0%E5%8F%B0%28%E7%A1%AC%E5%AD%97%E5%B9%95%29&t=1787595718&token=daa5d4a1ee9079
+#EXTINF:-1 group-title="NEWS",CCTV2
+https://sys.lysvc.cc/iptv_test/main.php?id=CCTV2&t=1787053193&token=f00792b3c4540b6951e712efda3a02aa
 #EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://live.fanmingming.cn/tv/NICKELODEON.png" group-title="KIDS",NICKELODEON
 http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 #EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://live.fanmingming.cn/tv/NICKELODEON.png" group-title="KIDS",NICKELODEON
@@ -201,6 +229,16 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8
 http://38.96.178.201:80/live/DisneyXD/index.m3u8
 #EXTINF:-1 tvg-name="MYTV_SUPER少儿" tvg-logo="https://live.fanmingming.cn/tv/MYTV_SUPER少儿.png" group-title="KIDS",MYTV_SUPER少儿
 http://link3.813555.xyz/qyzby/maolin3.php?id=20253
+#EXTINF:-1 group-title="KIDS",经典动画大集合
+https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&t=1
+#EXTINF:-1 group-title="KIDS",MoMoTV-4K
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="KIDS",优漫卡通
+https://sys.lysvc.cc/iptv_test/main.php?id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A&t=1787226392&token=415b1487f5d6a
+#EXTINF:-1 group-title="KIDS",金鹰卡通
+https://sys.lysvc.cc/iptv_test/main.php?id=%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A&t=1787053193&token=fb81594548401
+#EXTINF:-1 group-title="KIDS",嘉佳卡通
+https://sys.lysvc.cc/iptv_test/main.php?id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&t=1787053193&token=47de0a103e2
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet.png" group-title="ANIMAL",Animal Planet
 https://live.catvod.com/live.php?id=animalplanet_twn
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet.png" group-title="ANIMAL",Animal Planet
@@ -245,8 +283,12 @@ http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="WILDEARTH" tvg-logo="https://live.fanmingming.cn/tv/WILDEARTH.png" group-title="ANIMAL",WILDEARTH
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="ANIMAL",CCTV10
+https://sys.lysvc.cc/iptv_test/main.php?id=CCTV10&t=1787595718&token=ecd72fae0561c2695b5c09180dbdb53b
+#EXTINF:-1 group-title="ANIMAL",CCTV-央视文化精品
+https://sys.lysvc.cc/iptv_test/main.php?id=CCTV-%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81&t=1787595718&token=4cbfbbb1f969d77f8dbe641db4f54906
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.cn/tv/HBO.png" group-title="MOVIES",HBO
-http://148.113.160.49:14187
+http://109.233.89.166/HBO_HD/index.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.cn/tv/HBO.png" group-title="MOVIES",HBO
 https://live.catvod.com/live.php?id=hbohd_twn
 #EXTINF:-1 tvg-name="HBO2" tvg-logo="https://live.fanmingming.cn/tv/HBO2.png" group-title="MOVIES",HBO2
@@ -394,7 +436,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-name="東森電影台" tvg-logo="https://live.fanmingming.cn/tv/東森電影台.png" group-title="MOVIES",東森電影台
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 #EXTINF:-1 tvg-name="東森洋片台" tvg-logo="https://live.fanmingming.cn/tv/東森洋片台.png" group-title="MOVIES",東森洋片台
-http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
+https://live.catvod.com/live.php?id=ettvwestern
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://live.fanmingming.cn/tv/龍華電影台.png" group-title="MOVIES",龍華電影台
 http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://live.fanmingming.cn/tv/龍華電影台.png" group-title="MOVIES",龍華電影台
@@ -420,12 +462,17 @@ http://link3.813555.xyz/qyzby/maolin3.php?id=20095
 #EXTINF:-1 tvg-name="Now爆谷(国语)" tvg-logo="https://live.fanmingming.cn/tv/Now爆谷(国语).png" group-title="MOVIES",Now爆谷(国语)
 http://link3.813555.xyz/qyzby/maolin3.php?id=20096
 #EXTINF:-1 tvg-name="美亚电影(台)" tvg-logo="https://live.fanmingming.cn/tv/美亚电影(台).png" group-title="MOVIES",美亚电影(台)
-http://link3.813555.xyz/qyzby/maolin3.php?id=20110
+https://live.catvod.com/live.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="美亚电影(港)" tvg-logo="https://live.fanmingming.cn/tv/美亚电影(港).png" group-title="MOVIES",美亚电影(港)
 http://link3.813555.xyz/qyzby/maolin3.php?id=20111
 #EXTINF:-1 tvg-name="美亚电影(港)" tvg-logo="https://live.fanmingming.cn/tv/美亚电影(港).png" group-title="MOVIES",美亚电影(港)
 http://link3.813555.xyz/qyzby/maolin3.php?id=1223
-#EXTM3U
+#EXTINF:-1 group-title="MOVIES",澳门莲花
+https://sys.lysvc.cc/iptv_test/main.php?id=%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1&t=1787965668&token=a96ebab3233123f16f22c992c6b858d6
+#EXTINF:-1 group-title="MOVIES",天映经典
+https://sys.lysvc.cc/iptv_test/main.php?id=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8&t=1787965668&token=7b84e51071bdad66b71ce40c4c2cda48
+#EXTINF:-1 group-title="MOVIES",经典香港电影
+https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&t=1788138829&token=dfc794fa45bcc7c6cf093cfe9a76eb5d
 #EXTINF:-1 tvg-name="CHC电影" tvg-id="CHC电影" tvg-logo="https://tb.zbds.top/logo/CHC电影.png" group-title="电影频道", CHC电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="东阳影视生活" tvg-id="东阳影视生活" tvg-logo="https://tb.zbds.top/logo/东阳影视生活.png" group-title="电影频道", 东阳影视生活
@@ -582,7 +629,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 https://live.metshop.top/huya/11352876
 #EXTINF:-1 tvg-name="龙门飞甲" tvg-id="龙门飞甲" tvg-logo="https://tb.zbds.top/logo/龙门飞甲.png" group-title="电影频道", 龙门飞甲
 http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="Animax(HK)" tvg-id="" tvg-country="香港" tvg-language="日語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png" group-title="兒童",[BD]cctv-12社会与法[geo-blocked]
 https://stream1.freetv.fun/8fec588fa09e356552f56f5e64a875f44c72f6ef785b0d2b4bbd6527f64e804e.ctv
 #EXTINF:-1 tvg-name="Animax(HK)" tvg-id="" tvg-country="香港" tvg-language="日語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png" group-title="兒童",[BD]cctv-9纪录
