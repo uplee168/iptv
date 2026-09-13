@@ -156,6 +156,8 @@ https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/2da57691
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/bad0f8e9
 #EXTINF:-1 tvg-name="REUTERS" tvg-logo="https://live.fanmingming.cn/tv/REUTERS.png" group-title="NEWS",REUTERS
 https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/e50c7bde
+#EXTINF:-1 tvg-name="BBC NEWS" tvg-logo="https://live.fanmingming.cn/tv/BBC NEWS.png" group-title="NEWS",BBC NEWS
+https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/db7cfdd4
 #EXTINF:-1 group-title="NEWS",CCTV2
 https://sys.lysvc.cc/iptv_test/main.php?id=CCTV2&t=1787053193&token=f00792b3c4540b6951e712efda3a02aa
 #EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://live.fanmingming.cn/tv/NICKELODEON.png" group-title="KIDS",NICKELODEON
