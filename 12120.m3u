@@ -170,14 +170,6 @@ https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://live.fanmingming.cn/tv/Cartoon Network.png" group-title="KIDS",Cartoon Network
 http://109.233.89.166/Cartoon_Network_HD/index.m3u8
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://live.fanmingming.cn/tv/龙华卡通.png" group-title="KIDS",龙华卡通
-https://live.catvod.com/iptv.php?id=lhkt01
-#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://live.fanmingming.cn/tv/靖天卡通.png" group-title="KIDS",靖天卡通
-https://live.catvod.com/live.php?id=jingtiancartoon_twn
-#EXTINF:-1 tvg-name="亲子动画01" tvg-logo="https://live.fanmingming.cn/tv/亲子动画01.png" group-title="KIDS",亲子动画01
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-#EXTINF:-1 tvg-name="亲子动画02" tvg-logo="https://live.fanmingming.cn/tv/亲子动画02.png" group-title="KIDS",亲子动画02
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 #EXTINF:-1 tvg-name="DAVE&AVA" tvg-logo="https://live.fanmingming.cn/tv/DAVE&AVA.png" group-title="KIDS",DAVE&AVA
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 #EXTINF:-1 tvg-name="DISNEY INTERNATIONAL" tvg-logo="https://live.fanmingming.cn/tv/DISNEY INTERNATIONAL.png" group-title="KIDS",DISNEY INTERNATIONAL
