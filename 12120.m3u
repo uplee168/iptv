@@ -218,7 +218,6 @@ https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/7285d2f2
 https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/10bcf8c4
 #EXTINF:-1 tvg-name="LEGO KIDS" tvg-logo="https://live.fanmingming.cn/tv/LEGO KIDS.png" group-title="KIDS",LEGO KIDS
 https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/6946ecf4
-https://sys.lysvc.cc/iptv_test/main.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2HD&t=1787595718&token=f58b5d8b8750b
 #EXTINF:-1 group-title="KIDS",经典动画大集合
 https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&t=1
 #EXTINF:-1 group-title="KIDS",MoMoTV-4K
@@ -236,6 +235,9 @@ https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/72ff7cec
 #EXTINF:-1 tvg-name="MLB" tvg-logo="https://live.fanmingming.cn/tv/MLB.png" group-title="KIDS",MLB
 https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/368b7018
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="KIDS",五星体育
+https://sys.lysvc.cc/iptv_test/main.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2HD&t=1787595718&token=f58b5d8b8750b
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="KIDS",CCTV5+
+https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/5ef67c0e
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet.png" group-title="ANIMAL",Animal Planet
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/89135036
 #EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.cn/tv/Nat Geo Wild.png" group-title="ANIMAL",Nat Geo Wild
