@@ -212,8 +212,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 #EXTINF:-1 tvg-name="DISNEY INTERNATIONAL" tvg-logo="https://live.fanmingming.cn/tv/DISNEY INTERNATIONAL.png" group-title="KIDS",DISNEY INTERNATIONAL
 http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
-#EXTINF:-1 tvg-name="DISNEY" tvg-logo="https://live.fanmingming.cn/tv/DISNEY.png" group-title="KIDS",DISNEY
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 tvg-name="DISNEY JR" tvg-logo="https://live.fanmingming.cn/tv/DISNEY.png" group-title="KIDS",DISNEY JR
+https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/21b7dbd5
 #EXTINF:-1 tvg-name="DISNEY XD" tvg-logo="https://live.fanmingming.cn/tv/DISNEY XD.png" group-title="KIDS",DISNEY XD
 https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/c9bbfaf7
 #EXTINF:-1 tvg-name="MYTV_SUPER少儿" tvg-logo="https://live.fanmingming.cn/tv/MYTV_SUPER少儿.png" group-title="KIDS",MYTV_SUPER少儿
