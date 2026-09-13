@@ -149,9 +149,7 @@ http://37.27.111.214:8080/live/8/hls.m3u8
 #EXTINF:-1 group-title="NEWS",民视-HD
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://live.fanmingming.cn/tv/FOX NEWS.png" group-title="NEWS",FOX NEWS
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://live.fanmingming.cn/tv/FOX NEWS.png" group-title="NEWS",FOX NEWS
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/9510531a
 #EXTINF:-1 tvg-name="VOA" tvg-logo="https://live.fanmingming.cn/tv/VOA.png" group-title="NEWS",VOA
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/2da57691
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://live.fanmingming.cn/tv/CNN.png" group-title="NEWS",CNN
