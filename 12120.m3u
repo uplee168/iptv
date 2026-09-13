@@ -124,6 +124,8 @@ http://aktv_stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/8693df05
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png" group-title="NEWS",台视新闻
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/707a534e
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png" group-title="NEWS",台视新闻
+https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/b42b901b
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png" group-title="NEWS",TVBS
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png" group-title="NEWS",TVBS
