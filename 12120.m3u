@@ -323,6 +323,8 @@ http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
 https://live.catvod.com/live.php?id=axn_twn
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX.png" group-title="MOVIES",CINEMAX
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/db4f8c6a
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX.png" group-title="MOVIES",CINEMAX
+https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/5a3e8d42
 #EXTINF:-1 tvg-name="DMAX" tvg-logo="https://live.fanmingming.cn/tv/DMAX.png" group-title="MOVIES",DMAX
 http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 #EXTINF:-1 tvg-name="DMAX" tvg-logo="https://live.fanmingming.cn/tv/DMAX.png" group-title="MOVIES",DMAX
@@ -385,26 +387,8 @@ https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/a5144d9d
 http://iptv.4666888.xyz/iptv2A.php?id=45
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://live.fanmingming.cn/tv/龙华洋片.png" group-title="MOVIES",龙华洋片
 https://live.catvod.com/iptv.php?id=lhyp01
-#EXTINF:-1 tvg-name="Plus综合AKtv" tvg-logo="https://live.fanmingming.cn/tv/Plus综合AKtv.png" group-title="MOVIES",Plus综合AKtv
-https://s3.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-name="Plus综合AKtv" tvg-logo="https://live.fanmingming.cn/tv/Plus综合AKtv.png" group-title="MOVIES",Plus综合AKtv
-https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-name="PopC电影AKtv" tvg-logo="https://live.fanmingming.cn/tv/PopC电影AKtv.png" group-title="MOVIES",PopC电影AKtv
-https://s3.m16tv.cfd/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-name="PopC电影AKtv" tvg-logo="https://live.fanmingming.cn/tv/PopC电影AKtv.png" group-title="MOVIES",PopC电影AKtv
-https://s2.m16tv.cfd/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-name="PopC电影AKtv" tvg-logo="https://live.fanmingming.cn/tv/PopC电影AKtv.png" group-title="MOVIES",PopC电影AKtv
-http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-name="PopC" tvg-logo="https://live.fanmingming.cn/tv/PopC.png" group-title="MOVIES",PopC
 https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
-#EXTINF:-1 tvg-name="美亚电影AKtv" tvg-logo="https://live.fanmingming.cn/tv/美亚电影AKtv.png" group-title="MOVIES",美亚电影AKtv
-https://s3.m16tv.cfd/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-name="美亚电影AKtv" tvg-logo="https://live.fanmingming.cn/tv/美亚电影AKtv.png" group-title="MOVIES",美亚电影AKtv
-https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-name="天映频道AKtv" tvg-logo="https://live.fanmingming.cn/tv/天映频道AKtv.png" group-title="MOVIES",天映频道AKtv
-https://s3.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-name="天映频道AKtv" tvg-logo="https://live.fanmingming.cn/tv/天映频道AKtv.png" group-title="MOVIES",天映频道AKtv
-https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="Fgm电影" tvg-logo="https://live.fanmingming.cn/tv/Fgm电影.png" group-title="MOVIES",Fgm电影
 http://live4play.uk/livehttpplay?channel_id=10123
 #EXTINF:-1 tvg-name="Amc电影" tvg-logo="https://live.fanmingming.cn/tv/Amc电影.png" group-title="MOVIES",Amc电影
