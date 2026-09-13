@@ -421,6 +421,8 @@ http://live4play.uk/livehttpplay?channel_id=20092
 http://live4play.uk/livehttpplay?channel_id=20093
 #EXTINF:-1 tvg-name="美亞電影台" tvg-logo="https://live.fanmingming.cn/tv/美亞電影台.png" group-title="MOVIES",美亞電影台
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 tvg-name="美亞電影台" tvg-logo="https://live.fanmingming.cn/tv/美亞電影台.png" group-title="MOVIES",美亞電影台
+https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/9fda79ff
 #EXTINF:-1 tvg-name="東森電影台" tvg-logo="https://live.fanmingming.cn/tv/東森電影台.png" group-title="MOVIES",東森電影台
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 #EXTINF:-1 tvg-name="東森洋片台" tvg-logo="https://live.fanmingming.cn/tv/東森洋片台.png" group-title="MOVIES",東森洋片台
