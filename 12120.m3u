@@ -9,10 +9,14 @@ https://live.catvod.com/live.php?id=Jade_xue
 https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&t=1787053193&token=8817b903242b318e86c82bc
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="NEWS",翡翠台
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/4a9be306
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="NEWS",翡翠台
+https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B04K%28%E5%AD%97%E5%B9%95%29&t=1787965668&token=f241edc8197d154082d46edf789fb669
 #EXTINF:-1 tvg-name="翡翠台剧集" tvg-logo="https://live.fanmingming.cn/tv/翡翠台剧集.png" group-title="NEWS",翡翠台剧集
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/610c0964
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://live.fanmingming.cn/tv/华丽翡翠台.png" group-title="NEWS",华丽翡翠台
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/651db988
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://live.fanmingming.cn/tv/华丽翡翠台.png" group-title="NEWS",华丽翡翠台
+https://sys.lysvc.cc/iptv_test/main.php?id=%E5%8D%8E%E4%B8%BD%E7%BF%A1%E7%BF%A0%E5%8F%B0%28%E7%A1%AC%E5%AD%97%E5%B9%95%29&t=1787595718&token=daa5d4a1ee9079
 #EXTINF:-1 group-title="NEWS",明珠台
 https://sys.lysvc.cc/iptv_test/main.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1787053193&token=83580324e24efb1089101506b
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png" group-title="NEWS",无线新闻
@@ -87,6 +91,8 @@ https://stream1.freetv.fun/28f2a175c45cd3d6885a0432398d36f149c45c516575d0da8a431
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻.png" group-title="NEWS",TVBS新闻
 http://smart.cityq.xyz:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻.png" group-title="NEWS",TVBS新闻
+https://sys.lysvc.cc/iptv_test/main.php?id=TVBS%E6%96%B0%E9%97%BB&t=1787965668&token=1e02315b45df4a53d3da4242119ec0cd
 #EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://live.fanmingming.cn/tv/TVBS NEWS.png" group-title="NEWS",TVBS NEWS
 http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 #EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://live.fanmingming.cn/tv/TVBS NEWS.png" group-title="NEWS",TVBS NEWS
@@ -95,7 +101,7 @@ http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=1924
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻.png" group-title="NEWS",民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="NEWS",民视新闻
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻.png" group-title="NEWS",民视新闻
 https://sys.lysvc.cc/iptv_test/main.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB&t=1787595718&token=3c8677b607b5185
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.cn/tv/华视新闻.png" group-title="NEWS",华视新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv052
@@ -131,8 +137,6 @@ https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/b42b901b
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png" group-title="NEWS",TVBS
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png" group-title="NEWS",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png" group-title="NEWS",TVBS
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png" group-title="NEWS",TVBS
 http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
@@ -150,14 +154,10 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-name="VOA" tvg-logo="https://live.fanmingming.cn/tv/VOA.png" group-title="NEWS",VOA
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/2da57691
-#EXTINF:-1 group-title="NEWS",TVBS新闻
-https://sys.lysvc.cc/iptv_test/main.php?id=TVBS%E6%96%B0%E9%97%BB&t=1787965668&token=1e02315b45df4a53d3da4242119ec0cd
-#EXTINF:-1 group-title="NEWS",翡翠台4K
-https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B04K%28%E5%AD%97%E5%B9%95%29&t=1787965668&token=f241edc8197d154082d46edf789fb669
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://live.fanmingming.cn/tv/CNN.png" group-title="NEWS",CNN
+https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/bad0f8e9
 #EXTINF:-1 group-title="NEWS",五星体育HD
 https://sys.lysvc.cc/iptv_test/main.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2HD&t=1787595718&token=f58b5d8b8750b
-#EXTINF:-1 group-title="NEWS",华丽翡翠台
-https://sys.lysvc.cc/iptv_test/main.php?id=%E5%8D%8E%E4%B8%BD%E7%BF%A1%E7%BF%A0%E5%8F%B0%28%E7%A1%AC%E5%AD%97%E5%B9%95%29&t=1787595718&token=daa5d4a1ee9079
 #EXTINF:-1 group-title="NEWS",CCTV2
 https://sys.lysvc.cc/iptv_test/main.php?id=CCTV2&t=1787053193&token=f00792b3c4540b6951e712efda3a02aa
 #EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://live.fanmingming.cn/tv/NICKELODEON.png" group-title="KIDS",NICKELODEON
