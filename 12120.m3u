@@ -323,7 +323,7 @@ http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
 https://live.catvod.com/live.php?id=axn_twn
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX.png" group-title="MOVIES",CINEMAX
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/db4f8c6a
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX.png" group-title="MOVIES",CINEMAX
+#EXTINF:-1 tvg-name="CINEMAXWORLD" tvg-logo="https://live.fanmingming.cn/tv/CINEMAXWORLD.png" group-title="MOVIES",CINEMAXWORLD
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/5a3e8d42
 #EXTINF:-1 tvg-name="DMAX" tvg-logo="https://live.fanmingming.cn/tv/DMAX.png" group-title="MOVIES",DMAX
 http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
