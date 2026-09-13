@@ -79,12 +79,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=43
 http://smart.cityq.xyz:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻.png" group-title="NEWS",TVBS新闻
 https://sys.lysvc.cc/iptv_test/main.php?id=TVBS%E6%96%B0%E9%97%BB&t=1787965668&token=1e02315b45df4a53d3da4242119ec0cd
-#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://live.fanmingming.cn/tv/TVBS NEWS.png" group-title="NEWS",TVBS NEWS
-http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://live.fanmingming.cn/tv/TVBS NEWS.png" group-title="NEWS",TVBS NEWS
-http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://live.fanmingming.cn/tv/TVBS NEWS.png" group-title="NEWS",TVBS NEWS
-http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻.png" group-title="NEWS",民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻.png" group-title="NEWS",民视新闻
