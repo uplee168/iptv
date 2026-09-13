@@ -161,9 +161,7 @@ https://sys.lysvc.cc/iptv_test/main.php?id=CCTV2&t=1787053193&token=f00792b3c454
 #EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://live.fanmingming.cn/tv/NICKELODEON.png" group-title="KIDS",NICKELODEON
 https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/73cbd657
 #EXTINF:-1 tvg-name="NICKTOONS" tvg-logo="https://live.fanmingming.cn/tv/NICKTOONS.png" group-title="KIDS",NICKTOONS
-https://flexi-s1.purplecdn.xyz/NickToons/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="NICKTOONS" tvg-logo="https://live.fanmingming.cn/tv/NICKTOONS.png" group-title="KIDS",NICKTOONS
-https://stream01.vnet.am/Boomerang/mono.m3u8
+https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/77cf7481
 #EXTINF:-1 tvg-name="NICKJR" tvg-logo="https://live.fanmingming.cn/tv/NICKJR.png" group-title="KIDS",NICKJR
 https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/5513fd85
 #EXTINF:-1 tvg-name="NICKHD" tvg-logo="https://live.fanmingming.cn/tv/NICKHD.png" group-title="KIDS",NICKHD
