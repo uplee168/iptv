@@ -423,6 +423,8 @@ http://61.221.215.25:8800/hls/43/index.m3u8
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/9d898945
 #EXTINF:-1 tvg-name="Now爆谷(粤语)" tvg-logo="https://live.fanmingming.cn/tv/Now爆谷(粤语).png" group-title="MOVIES",Now爆谷(粤语)
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/104bb1cb
+#EXTINF:-1 tvg-name="ROCK ACTION" tvg-logo="https://live.fanmingming.cn/tv/ROCK ACTION.png" group-title="MOVIES",ROCK ACTION
+https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/6113c666
 #EXTINF:-1 tvg-name="美亚电影(台)" tvg-logo="https://live.fanmingming.cn/tv/美亚电影(台).png" group-title="MOVIES",美亚电影(台)
 https://live.catvod.com/live.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="美亚电影(港)" tvg-logo="https://live.fanmingming.cn/tv/美亚电影(港).png" group-title="MOVIES",美亚电影(港)
