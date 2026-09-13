@@ -159,8 +159,8 @@ rtmp://f13h.mine.nu/sat/tv051
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://live.fanmingming.cn/tv/FOX NEWS.png" group-title="NEWS",FOX NEWS
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-name="CBSHD" tvg-logo="https://live.fanmingming.cn/tv/CBSHD.png" group-title="NEWS",CBSHD
-http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+#EXTINF:-1 tvg-name="VOA" tvg-logo="https://live.fanmingming.cn/tv/VOA.png" group-title="NEWS",VOA
+https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/2da57691
 #EXTINF:-1 group-title="NEWS",TVBS新闻
 https://sys.lysvc.cc/iptv_test/main.php?id=TVBS%E6%96%B0%E9%97%BB&t=1787965668&token=1e02315b45df4a53d3da4242119ec0cd
 #EXTINF:-1 group-title="NEWS",翡翠台4K
