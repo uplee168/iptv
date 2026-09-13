@@ -64,13 +64,9 @@ http://27.46.95.90:800/hls/1868314925/index.m3u8
 #EXTINF:-1 group-title="NEWS",HOY TV
 https://sys.lysvc.cc/iptv_test/main.php?id=HOY+TV&t=1787792181&token=ab4a31a98b1c76dfe563b6fa9d9b97c9
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.cn/tv/VIUTV.png" group-title="NEWS",VIUTV
-http://27.46.95.90:800/hls/1864291364/index.m3u8
-#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.cn/tv/VIUTV.png" group-title="NEWS",VIUTV
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/512e215c
 #EXTINF:-1 tvg-name="VIUTV SIX" tvg-logo="https://live.fanmingming.cn/tv/VIUTV SIX.png" group-title="NEWS",VIUTV SIX
-http://27.46.95.90:800/hls/1852451724/index.m3u8
-#EXTINF:-1 tvg-name="VIUTV SIX" tvg-logo="https://live.fanmingming.cn/tv/VIUTV SIX.png" group-title="NEWS",VIUTV SIX
-http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/43ecd388
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png" group-title="NEWS",RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png" group-title="NEWS",RTHK32
