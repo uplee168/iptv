@@ -73,14 +73,6 @@ https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/43ecd388
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png" group-title="NEWS",RTHK32
 http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://live.fanmingming.cn/tv/镜新闻.png" group-title="NEWS",镜新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv075
-#EXTINF:-1 tvg-name="壹新闻" tvg-logo="https://live.fanmingming.cn/tv/壹新闻.png" group-title="NEWS",壹新闻
-https://live.catvod.com/live.php?id=yinews
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://live.fanmingming.cn/tv/年代新闻.png" group-title="NEWS",年代新闻
-https://live.catvod.com/live.php?id=niandainews_twn
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://live.fanmingming.cn/tv/年代新闻.png" group-title="NEWS",年代新闻
-https://stream1.freetv.fun/28f2a175c45cd3d6885a0432398d36f149c45c516575d0da8a4312b445351c10.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻.png" group-title="NEWS",TVBS新闻
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻.png" group-title="NEWS",TVBS新闻
