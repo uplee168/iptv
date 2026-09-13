@@ -243,19 +243,9 @@ https://sys.lysvc.cc/iptv_test/main.php?id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet.png" group-title="ANIMAL",Animal Planet
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/89135036
 #EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.cn/tv/Nat Geo Wild.png" group-title="ANIMAL",Nat Geo Wild
-https://live.catvod.com/live.php?id=natgeowild_twn
-#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.cn/tv/Nat Geo Wild.png" group-title="ANIMAL",Nat Geo Wild
-https://tv.arectv13.sbs/live/natgeowild.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.cn/tv/Nat Geo Wild.png" group-title="ANIMAL",Nat Geo Wild
-http://stream02.vnet.am/NatGeoWild/mono.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.cn/tv/Nat Geo Wild.png" group-title="ANIMAL",Nat Geo Wild
-http://109.233.89.166/National_Geographic_Wild_HD/index.m3u8
+https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/21bfc265
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://live.fanmingming.cn/tv/National Geographic.png" group-title="ANIMAL",National Geographic
-http://178.219.128.68:64889/NATIGEOGHD
-#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://live.fanmingming.cn/tv/National Geographic.png" group-title="ANIMAL",National Geographic
-http://62.210.211.188:2095/play/a00d
-#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://live.fanmingming.cn/tv/National Geographic.png" group-title="ANIMAL",National Geographic
-http://78.130.250.2:8023/play/a02e/index.m3u8
+https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/996bc739
 #EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="https://live.fanmingming.cn/tv/LOVE NATURE.png" group-title="ANIMAL",LOVE NATURE
 https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="https://live.fanmingming.cn/tv/LOVE NATURE.png" group-title="ANIMAL",LOVE NATURE
