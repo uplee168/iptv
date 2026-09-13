@@ -276,9 +276,7 @@ https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="WILDEARTH" tvg-logo="https://live.fanmingming.cn/tv/WILDEARTH.png" group-title="ANIMAL",WILDEARTH
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="ANIMAL",CCTV10
-https://sys.lysvc.cc/iptv_test/main.php?id=CCTV10&t=1787595718&token=ecd72fae0561c2695b5c09180dbdb53b
-#EXTINF:-1 group-title="ANIMAL",CCTV-央视文化精品
-https://sys.lysvc.cc/iptv_test/main.php?id=CCTV-%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81&t=1787595718&token=4cbfbbb1f969d77f8dbe641db4f54906
+https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/a012c6af
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.cn/tv/HBO.png" group-title="MOVIES",HBO
 http://109.233.89.166/HBO_HD/index.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.cn/tv/HBO.png" group-title="MOVIES",HBO
