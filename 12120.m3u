@@ -240,15 +240,7 @@ https://sys.lysvc.cc/iptv_test/main.php?id=%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A&
 #EXTINF:-1 group-title="KIDS",嘉佳卡通
 https://sys.lysvc.cc/iptv_test/main.php?id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&t=1787053193&token=47de0a103e2
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet.png" group-title="ANIMAL",Animal Planet
-https://live.catvod.com/live.php?id=animalplanet_twn
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet.png" group-title="ANIMAL",Animal Planet
-https://live.catvod.com/live.php?id=AnimalPlanet
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet.png" group-title="ANIMAL",Animal Planet
-http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet.png" group-title="ANIMAL",Animal Planet
-http://41.205.93.154/ANIMALPLANET/index.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet.png" group-title="ANIMAL",Animal Planet
-http://myott.top/stream/DT6QU63K5VX/114.m3u8
+https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/89135036
 #EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.cn/tv/Nat Geo Wild.png" group-title="ANIMAL",Nat Geo Wild
 https://live.catvod.com/live.php?id=natgeowild_twn
 #EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://live.fanmingming.cn/tv/Nat Geo Wild.png" group-title="ANIMAL",Nat Geo Wild
