@@ -275,9 +275,7 @@ https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/109c3286
 #EXTINF:-1 tvg-name="DOCUMENTARY" tvg-logo="https://live.fanmingming.cn/tv/DOCUMENTARY.png" group-title="ANIMAL",DOCUMENTARY
 https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/806ea475
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.cn/tv/HBO.png" group-title="MOVIES",HBO
-http://109.233.89.166/HBO_HD/index.m3u8
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.cn/tv/HBO.png" group-title="MOVIES",HBO
-https://live.catvod.com/live.php?id=hbohd_twn
+https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/c0f4fc27
 #EXTINF:-1 tvg-name="HBO2" tvg-logo="https://live.fanmingming.cn/tv/HBO2.png" group-title="MOVIES",HBO2
 http://178.219.128.68:64888/HBO2HD
 #EXTINF:-1 tvg-name="HBO2" tvg-logo="https://live.fanmingming.cn/tv/HBO2.png" group-title="MOVIES",HBO2
@@ -303,7 +301,7 @@ https://live.catvod.com/live.php?id=Hbosignature
 #EXTINF:-1 tvg-name="HBO XTREME" tvg-logo="https://live.fanmingming.cn/tv/HBO XTREME.png" group-title="MOVIES",HBO XTREME
 http://148.113.160.49:14175
 #EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://live.fanmingming.cn/tv/HBO HITS.png" group-title="MOVIES",HBO HITS
-https://live.catvod.com/live.php?id=hbohit_twn
+https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/94ca3d72
 #EXTINF:-1 tvg-name="HBO MUNDI" tvg-logo="https://live.fanmingming.cn/tv/HBO MUNDI.png" group-title="MOVIES",HBO MUNDI
 http://170.254.18.106/HBO_MUNDI/index.m3u8
 #EXTINF:-1 tvg-name="HBO PREMIUM" tvg-logo="https://live.fanmingming.cn/tv/HBO PREMIUM.png" group-title="MOVIES",HBO PREMIUM
