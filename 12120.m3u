@@ -9,8 +9,8 @@ https://live.catvod.com/live.php?id=Jade_xue
 https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&t=1787053193&token=8817b903242b318e86c82bc
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="NEWS",翡翠台
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/4a9be306
-#EXTINF:-1 group-title="NEWS",翡翠剧集台
-https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BF%A1%E7%BF%A0%E5%89%A7%E9%9B%86%E5%8F%B0&t=1787053193&token=cf9e3e966
+#EXTINF:-1 tvg-name="翡翠台剧集" tvg-logo="https://live.fanmingming.cn/tv/翡翠台剧集.png" group-title="NEWS",翡翠台剧集
+https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/610c0964
 #EXTINF:-1 group-title="NEWS",明珠台
 https://sys.lysvc.cc/iptv_test/main.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1787053193&token=83580324e24efb1089101506b
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png" group-title="NEWS",无线新闻
