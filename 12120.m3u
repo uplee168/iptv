@@ -26,13 +26,9 @@ https://sys.lysvc.cc/iptv_test/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&
 #EXTINF:-1 tvg-name="无线财经新闻" tvg-logo="https://live.fanmingming.cn/tv/无线财经新闻.png" group-title="NEWS",无线财经新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthfgfbvcfghjyfjsjbcvxjvbxjsfjfjsehbvbjtvbd5.flv
 #EXTINF:-1 tvg-name="Now新闻" tvg-logo="https://live.fanmingming.cn/tv/Now新闻.png" group-title="NEWS",Now新闻
-http://smart.cityq.xyz:8278/inews_twn/playlist.m3u8?tid=ME3E4305907643059076&ct=20075&tsum=0a5fcbca5a1cc7901ffb7014dc9604c9
+https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/81e3426d
 #EXTINF:-1 tvg-name="Now新闻" tvg-logo="https://live.fanmingming.cn/tv/Now新闻.png" group-title="NEWS",Now新闻
-https://stream1.freetv.fun/01fb01adb7e4381c9e76db158033938c38b2fe013acf64bb5cb806ee2abde363.ctv
-#EXTINF:-1 tvg-name="Now新闻" tvg-logo="https://live.fanmingming.cn/tv/Now新闻.png" group-title="NEWS",Now新闻
-http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-#EXTINF:-1 tvg-name="Now新闻" tvg-logo="https://live.fanmingming.cn/tv/Now新闻.png" group-title="NEWS",Now新闻
-https://live.catvod.com/iptv.php?id=nownews
+https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/56876cda
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://live.fanmingming.cn/tv/J2.png" group-title="NEWS",J2
 http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://live.fanmingming.cn/tv/J2.png" group-title="NEWS",J2
@@ -424,13 +420,9 @@ http://aktv-stream.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
 #EXTINF:-1 tvg-name="AMC電影台" tvg-logo="https://live.fanmingming.cn/tv/AMC電影台.png" group-title="MOVIES",AMC電影台
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="Now星影(粤语)" tvg-logo="https://live.fanmingming.cn/tv/Now星影(粤语).png" group-title="MOVIES",Now星影(粤语)
-http://link3.813555.xyz/qyzby/maolin3.php?id=20093
+https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/9d898945
 #EXTINF:-1 tvg-name="Now爆谷(粤语)" tvg-logo="https://live.fanmingming.cn/tv/Now爆谷(粤语).png" group-title="MOVIES",Now爆谷(粤语)
-http://link3.813555.xyz/qyzby/maolin3.php?id=20094
-#EXTINF:-1 tvg-name="Now星影(国语)" tvg-logo="https://live.fanmingming.cn/tv/Now星影(国语).png" group-title="MOVIES",Now星影(国语)
-http://link3.813555.xyz/qyzby/maolin3.php?id=20095
-#EXTINF:-1 tvg-name="Now爆谷(国语)" tvg-logo="https://live.fanmingming.cn/tv/Now爆谷(国语).png" group-title="MOVIES",Now爆谷(国语)
-http://link3.813555.xyz/qyzby/maolin3.php?id=20096
+https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/104bb1cb
 #EXTINF:-1 tvg-name="美亚电影(台)" tvg-logo="https://live.fanmingming.cn/tv/美亚电影(台).png" group-title="MOVIES",美亚电影(台)
 https://live.catvod.com/live.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="美亚电影(港)" tvg-logo="https://live.fanmingming.cn/tv/美亚电影(港).png" group-title="MOVIES",美亚电影(港)
