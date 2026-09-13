@@ -334,22 +334,6 @@ https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 https://younghollywood-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NETFLIX" tvg-logo="https://live.fanmingming.cn/tv/NETFLIX.png" group-title="MOVIES",NETFLIX
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-name="SBT" tvg-logo="https://live.fanmingming.cn/tv/SBT.png" group-title="MOVIES",SBT
-http://208.115.225.174:14170
-#EXTINF:-1 tvg-name="Smithsonian" tvg-logo="https://live.fanmingming.cn/tv/Smithsonian.png" group-title="MOVIES",Smithsonian
-https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
-#EXTINF:-1 tvg-name="STAR MOVIES" tvg-logo="https://live.fanmingming.cn/tv/STAR MOVIES.png" group-title="MOVIES",STAR MOVIES
-https://live.catvod.com/live.php?id=starmovies_raj
-#EXTINF:-1 tvg-name="STAR FAMILY" tvg-logo="https://live.fanmingming.cn/tv/STAR FAMILY.png" group-title="MOVIES",STAR FAMILY
-http://myott.top/stream/DT6QU63K5VX/226.m3u8
-#EXTINF:-1 tvg-name="THE KPOP" tvg-logo="https://live.fanmingming.cn/tv/THE KPOP.png" group-title="MOVIES",THE KPOP
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 tvg-name="tvNMovie" tvg-logo="https://live.fanmingming.cn/tv/tvNMovie.png" group-title="MOVIES",tvNMovie
-https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
-#EXTINF:-1 tvg-name="tvNMovie" tvg-logo="https://live.fanmingming.cn/tv/tvNMovie.png" group-title="MOVIES",tvNMovie
-http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
-#EXTINF:-1 tvg-name="WB" tvg-logo="https://live.fanmingming.cn/tv/WB.png" group-title="MOVIES",WB
-http://208.115.225.174:14132
 #EXTINF:-1 tvg-name="BET MOVIE" tvg-logo="https://live.fanmingming.cn/tv/BET MOVIE.png" group-title="MOVIES",BET MOVIE
 https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/97c42899
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.cn/tv/东森电影.png" group-title="MOVIES",东森电影
