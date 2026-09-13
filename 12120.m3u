@@ -159,13 +159,7 @@ https://sys.lysvc.cc/iptv_test/main.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2H
 #EXTINF:-1 group-title="NEWS",CCTV2
 https://sys.lysvc.cc/iptv_test/main.php?id=CCTV2&t=1787053193&token=f00792b3c4540b6951e712efda3a02aa
 #EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://live.fanmingming.cn/tv/NICKELODEON.png" group-title="KIDS",NICKELODEON
-http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://live.fanmingming.cn/tv/NICKELODEON.png" group-title="KIDS",NICKELODEON
-http://185.189.225.150:85/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://live.fanmingming.cn/tv/NICKELODEON.png" group-title="KIDS",NICKELODEON
-https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
-#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://live.fanmingming.cn/tv/NICKELODEON.png" group-title="KIDS",NICKELODEON
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/73cbd657
 #EXTINF:-1 tvg-name="NICKTOONS" tvg-logo="https://live.fanmingming.cn/tv/NICKTOONS.png" group-title="KIDS",NICKTOONS
 https://flexi-s1.purplecdn.xyz/NickToons/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="NICKTOONS" tvg-logo="https://live.fanmingming.cn/tv/NICKTOONS.png" group-title="KIDS",NICKTOONS
