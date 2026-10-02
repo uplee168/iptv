@@ -20,9 +20,10 @@ NEWS,#genre#
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 Now新闻,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/81e3426d
 Now新闻,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/56876cda
-J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-J2,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
-J2,hhttp://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+TVB+,http://r.jdshipin.com/Nr5jq
+TVB+,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+TVB+,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
+TVB+,hhttp://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 TVB星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河台,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/6ad54fc2
 NOW TV,http://116.202.238.88/FOXTV_TR/index.m3u8
@@ -62,7 +63,6 @@ TVBS新闻,https://sys.lysvc.cc/iptv_test/main.php?id=TVBS%E6%96%B0%E9%97%BB&t=1
 寰宇台湾,http://37.27.111.214:8080/live/63/hls.m3u8
 东森新闻,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/f4a1cad6
 东森新闻,https://sys.lysvc.cc/iptv_test/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1787226392&token=6e83d8bd6eedb47c
-东森LIVE,#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://live.fanmingming.cn/tv/三立iNEWS.png" group-title="NEWS",三立iNEWS
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/b42b901b
 TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
@@ -84,14 +84,20 @@ REUTERS,https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.t
 BBC NEWS,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/db7cfdd4
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 ABC News,https://c.mjh.nz/abc-news.m3u8
+ABC News,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 ABC,https://c.mjh.nz/abc-nsw.m3u8
+CBC NEWS,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 Bloomberg,https://bloomberg.com/media-manifest/streams/us.m3u8
+Bloomberg,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
 NBC News,https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 NBC News,https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
 America's Voice,https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
 DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 Bloomberg TV+,https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 Yahoo! Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+Global News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+NOW NEWS,http://cdn.163189.xyz/163189/now
+Taiwan Plus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 
 KIDS,#genre#
 NICKELODEON,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/73cbd657
@@ -157,10 +163,12 @@ OUTDOOR,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-out
 OUTDOOR,http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
 WILD SIDE,https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 WILDEARTH,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+WILDEARTH,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 CCTV10,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/a012c6af
-世界地理,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/151273a3
 BBC WORLD,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/109c3286
-DOCUMENTARY,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/806ea475
+DOCUMENTARY,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
+地理中国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
 
 MOVIES,#genre#
 MTV,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/98673e16
@@ -269,6 +277,11 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 寒战,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
 寻秦记,https://live.metshop.top/huya/29465848
 封神榜,https://live.metshop.top/huya/29465849
+新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
+西游记,https://live.ottiptv.cc/huya/26355861
+西游记,https://live.metshop.top/huya/29465859
+爱情公寓,https://live.ottiptv.cc/huya/11336726
+爱情公寓,https://live.ottiptv.cc/douyu/4105989
 射雕英雄传,https://live.metshop.top/huya/23824164
 强森电影,https://live.metshop.top/huya/21059581
 怪兽电影,https://live.metshop.top/huya/21059577
@@ -286,6 +299,7 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 武侠电影,https://live.metshop.top/huya/11342427
 沈腾电影,https://live.metshop.top/huya/11601968
 法政先锋,https://live.metshop.top/huya/23863804
+使徒行者,https://live.metshop.top/huya/23734256
 洗冤录,https://live.metshop.top/huya/29465851
 活佛济公3,https://live.metshop.top/huya/23903123
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -334,6 +348,8 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 哆啦A梦,https://live.ottiptv.cc/huya/11601963
 海绵宝宝,https://live.metshop.top/douyu/3949681
 灌篮高手,https://live.ottiptv.cc/yy/1382735626
+七龙珠,https://live.metshop.top/huya/11601966
+猫和老鼠,https://live.metshop.top/huya/11352879
 
 数母,#genre#
 电影|007大破量子危机（英语）,https://vip.lzcdn2.com/20220323/337_8f505661/index.m3u8
