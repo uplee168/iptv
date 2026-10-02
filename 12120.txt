@@ -67,6 +67,7 @@ VOA,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/2da57691
 CNN,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/bad0f8e9
 REUTERS,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/e50c7bde
 BBC NEWS,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/db7cfdd4
+ABC News,https://c.mjh.nz/abc-news.m3u8
 ABC,https://c.mjh.nz/abc-nsw.m3u8
 CCTV2,https://sys.lysvc.cc/iptv_test/main.php?id=CCTV2&t=1787053193&token=f00792b3c4540b6951e712efda3a02aa
 
@@ -10596,139 +10597,6 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 伦敦的山本五十六(日本战争片),https://vip1.lz-cdn1.com/20220317/45_5d826942/index.m3u8
 冰雪狙击(大陆战争片),https://vip1.lz-cdn1.com/20220317/27_4d256411/index.m3u8
 拯救大兵瑞恩(美国战争片),https://vip.lzcdn2.com/20220318/17_62bcd0a1/index.m3u8
-
-Australia,#genre#
-10 HD,https://i.mjh.nz/.r/10-nsw.m3u8
-ABC,https://c.mjh.nz/abc-nsw.m3u8
-SBS Ⓖ,https://i.mjh.nz/.r/sbs-sbst.m3u8
-Seven,https://i.mjh.nz/.r/seven-syd.m3u8
-Nine,https://i.mjh.nz/.r/channel-9-nsw.m3u8
-10 Peach,https://i.mjh.nz/.r/10peach-nsw.m3u8
-10 Bold,https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-10 Shake,https://i.mjh.nz/.r/10shake-nsw.m3u8
-TVSN,https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
-
-ABC Me,https://c.mjh.nz/abc-me.m3u8
-ABC News,https://c.mjh.nz/abc-news.m3u8
-M4TV,https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
-SBS Viceland Ⓖ,https://i.mjh.nz/.r/sbs-2syd.m3u8
-SBS World Movies Ⓖ,https://i.mjh.nz/.r/sbs-4syd.m3u8
-SBS Food Ⓖ,https://i.mjh.nz/.r/sbs-3syd.m3u8
-NITV Ⓖ,https://i.mjh.nz/.r/sbs-5nsw.m3u8
-7two,https://i.mjh.nz/.r/7two-syd.m3u8
-7mate,https://i.mjh.nz/.r/7mate-syd.m3u8
-7flix,https://i.mjh.nz/.r/7flix-syd.m3u8
-Racing.com,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-9Gem Ⓖ,https://i.mjh.nz/.r/gem-nsw.m3u8
-9Go! Ⓖ,https://i.mjh.nz/.r/go-nsw.m3u8
-9Life Ⓖ,https://i.mjh.nz/.r/life-nsw.m3u8
-9Rush Ⓖ,https://i.mjh.nz/.r/rush-nsw.m3u8
-C31 Melbourne,https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-
-Austria,#genre#
-ORF 1 Ⓖ,https://orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8
-ORF 2 Ⓖ,https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
-ORF III Ⓖ,https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
-ORF Sport + Ⓖ,https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
-Servus TV Ⓖ,https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
-oe24,https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
-W24,https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-P3TV,http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8
-RTV,http://iptv.rtv-ooe.at/stream.m3u8
-RTS Ⓖ,https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
-Tirol TV Ⓖ,https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-R9,https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-
-Azerbaijan,#genre#
-AzStarTV,http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-AZTV Ⓢ,https://str.yodacdn.net/azertv/index.m3u8
-Baku TV,https://rtmp.baku.tv/hls/bakutv.m3u8
-CBC Sport Ⓖ,https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-Kanal S,https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
-Mədəniyyət TV Ⓢ,https://str.yodacdn.net/medeniyyettele/index.m3u8
-Xəzər Xəbər,https://www.xezerxeber.az/stream/index.m3u8
-İctimai TV Ⓢ,https://live.itv.az/itv.m3u8
-Muz TV Ⓨ,https://www.youtube.com/channel/UCgHYcHd2SuX0ees5q0OWicQ/live
-Real TV Ⓨ,https://www.youtube.com/channel/UCjpoTfA8TXO6QfAWiAB67eA/live
-MTV Azerbaijan Ⓢ Ⓨ,https://www.youtube.com/@MTVAzerbaijan/live
-
-Belarus,#genre#
-Первый Информацыйнный,https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-Беларусь 1,https://edge55.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
-Беларусь 2,https://edge55.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
-Беларусь 3,https://edge55.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
-ОНТ Ⓢ,https://ngtrk.dc.beltelecom.by/ngtrk/smil:ont.smil/playlist.m3u8
-Беларусь 5,https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-СТВ,https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-Беларусь 24,https://edge55.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-Беларусь 5 Интернет,https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
-1Mus,http://hz1.teleport.cc/HLS/HD.m3u8
-8 Kanal Vitebsk Ⓢ,http://95.46.208.8:24433/art
-Belros Ⓢ,https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-Belarus 4 Vitebsk Ⓢ,https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
-Hawe TV Vitebsk Ⓢ,http://95.46.208.8:26259/nashe
-Pervyy Muzykal'nyy BY Ⓢ,http://rtmp.one.by:1200
-Planeta RTR Ⓢ,https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-Radio HIT Orsk,http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-Vitebsk Telekanal,https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
-
-Belgium,#genre#
-RTL-Be,https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
-La Une,http://145.239.5.177/329/index.m3u8
-Tipik,http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
-Arte Belgique Ⓖ,https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-La Trois,http://145.239.5.177/330/index.m3u8
-TV5 Monde,https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-LN24,https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
-BX1,https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-EEN,https://live-vrt.rabah.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
-Bruzz,https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8
-
-Bosnia and Herzegovina,#genre#
-BHT 1,https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
-BHT 1 Ⓢ,https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
-Federalna televizija (FTV) Ⓢ,http://94.250.2.6:7374/play/a02s/index.m3u8
-Televizija Republike Srpske (RTRS),https://parh.rtrs.tv/tv/live/playlist.m3u8
-RTRS PLUS Ⓢ,https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
-N1 Bosna i Hercegovina,https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-RTV HB Ⓢ,https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-RTV BN,https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
-RTV Glas Drine,http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
-Sevdah Ⓢ,https://restreamer2.tnt.ba/hls/stream.m3u8
-TNT Kids,https://restreamer1.tnt.ba/hls/tntkids.m3u8
-Televizija 5,https://balkanmedia.dynu.net/hls/tv5web.m3u8
-Kanal 6,https://restreamer1.tnt.ba/hls/kanal6.m3u8
-SuperTV,https://live.tv-m.net/hls/stream.m3u8
-Neon TV,rtsp://185.50.56.16:554/neontelvizija
-RTV USK Ⓨ,https://www.youtube.com/@rtvusk/live
-RTV ZE Ⓢ,https://stream.rtvze.ba/live/123/123.m3u8
-TV BPK Ⓢ,http://94.250.2.6:7374/play/a02u/index.m3u8
-
-Brazil,#genre#
-COM Brasil,https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-SBT Ⓨ,https://www.youtube.com/watch?v=ABVQXgr2LW4
-AgroBrasil TV,http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-Futura,http://168.197.104.22/FUTURA/index.m3u8
-RBC Ⓨ,https://www.youtube.com/watch?v=oUdd3CsxYaE
-Record News,https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-ISTV,https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
-Rede Brasil,https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-TV Câmara,https://stream3.camara.gov.br/tv1/manifest.m3u8
-TVE RS,http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-TV Cultura,https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
-Bulgaria,#genre#
-BNT1,https://shift03.isp.bg/BNT1_HD/index.m3u8
-bTV,http://213.91.179.28:8000/play/a03w
-Nova TV,http://213.91.179.28:8000/play/a03l
-Bulgaria On Air,http://213.91.179.28:8000/play/a05x
-BNT2,https://shift03.isp.bg/BNT2_HD/index.m3u8
-BNT3,https://shift03.isp.bg/BNT3_HD/index.m3u8
-Nova News,http://213.91.179.28:8000/play/a063
-City TV Ⓢ,https://tv.city.bg/play/tshls/citytv/index.m3u8
-BNT4,https://shift03.isp.bg/BNT4_HD/index.m3u8
-Euronews Bulgaria Ⓨ,https://www.youtube.com/channel/UCU1i6qBMjY9El6q5L2OK8hA/live
-TV1,https://tv1.cloudcdn.bg/temp/livestream.m3u8
 
 Canada,#genre#
 CBC Toronto Ⓖ,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
