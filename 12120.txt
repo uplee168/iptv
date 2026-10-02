@@ -110,10 +110,6 @@ MoMoTV-4K,rtmp://f13h.mine.nu/sat/tv761
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-七龙珠,https://live.metshop.top/huya/11601966
-中华小当家,https://live.metshop.top/huya/11342413
-海绵宝宝,https://live.metshop.top/douyu/3949681
-猫和老鼠,https://live.metshop.top/huya/11352879
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
@@ -291,6 +287,7 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 灌篮高手,https://live.ottiptv.cc/yy/1382735626
 七龙珠,https://live.metshop.top/huya/11601966
 猫和老鼠,https://live.metshop.top/huya/11352879
+中华小当家,https://live.metshop.top/huya/11342413
 
 数母,#genre#
 电影|007大破量子危机（英语）,https://vip.lzcdn2.com/20220323/337_8f505661/index.m3u8
