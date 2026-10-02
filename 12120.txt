@@ -67,6 +67,7 @@ VOA,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/2da57691
 CNN,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/bad0f8e9
 REUTERS,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/e50c7bde
 BBC NEWS,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/db7cfdd4
+ABC,https://c.mjh.nz/abc-nsw.m3u8
 CCTV2,https://sys.lysvc.cc/iptv_test/main.php?id=CCTV2&t=1787053193&token=f00792b3c4540b6951e712efda3a02aa
 
 KIDS,#genre#
@@ -74,6 +75,7 @@ NICKELODEON,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/73
 NICKTOONS,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/77cf7481
 NICKJR,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/5513fd85
 NICKHD,https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+ABC Kids,https://c.mjh.nz/abc-kids.m3u8
 DISCOVERY KIDS,https://epg.pw/stream/16e7322b146c0edbaa6db49ca5957c6636b6a9394ad4ba5410f841af98c01bec.ctv
 MOONBUG KIDS,https://moonbug-rokuus.amagi.tv/playlist.m3u8
 KIDOODLE TV,https://stream1.freetv.fun/c9b56985fe40ed1f3d0475662c0b9e02fcdba0db7e41905d6eddbdbe4decddf5.m3u8
@@ -10595,61 +10597,6 @@ A计划2021(德国/以色列战争片),https://vip1.lz-cdn1.com/20230306/20694_4
 冰雪狙击(大陆战争片),https://vip1.lz-cdn1.com/20220317/27_4d256411/index.m3u8
 拯救大兵瑞恩(美国战争片),https://vip.lzcdn2.com/20220318/17_62bcd0a1/index.m3u8
 
-Albania,#genre#
-Kanali 7 Ⓢ,https://fe.tring.al/delta/105/out/u/1200_1.m3u8
-A2 CNN Albania,https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-ABC News Albania Ⓣ,https://www.twitch.tv/abcnewsal
-AlbKanale Music TV Ⓢ,https://albportal.net/albkanalemusic.m3u8
-Alpo TV,https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-CNA,https://live1.mediadesk.al/cnatvlive.m3u8
-Euronews Albania Ⓨ,https://www.youtube.com/@EuronewsAlbania/live
-News 24 Ⓢ,https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-Ora News,https://live1.mediadesk.al/oranews.m3u8
-Panorama TV Ⓢ,http://198.244.188.94/panorama/livestream/playlist.m3u8
-Report TV,https://deb10stream.duckdns.org/hls/stream.m3u8
-Syri,https://stream.syritv.al/live/syritv/playlist.m3u8
-Top News Ⓣ,https://www.twitch.tv/topnewsal
-Tropoja,https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-TV 7 Albania,https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8
-TV Apollon Ⓢ,https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
-Vizion Plus,https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
-
-Andorra,#genre#
-Andorra TV,https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
-
-Argentina,#genre#
-TN Todo Noticias Ⓨ,https://www.youtube.com/c/todonoticias/live
-Encuentro Ⓨ Ⓖ,https://www.youtube.com/user/encuentro/live
-Pakapaka Ⓨ Ⓖ,https://www.youtube.com/user/CanalPakapaka/live
-Aunar,https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
-Cine.AR,https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-Tec TV,https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-Televisión Pública Ⓨ,https://www.youtube.com/user/TVPublicaArgentina/live
-DeporTV,https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-Canal 26,https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-Crónica TV Ⓨ,https://www.youtube.com/c/cronicatv/live
-Argentina 12 Ⓨ,https://www.youtube.com/c/IPNoticiasEnVivo/live
-El Destape Ⓨ,https://www.youtube.com/c/eldestapetv/live
-C5N Ⓨ,https://www.youtube.com/c/c5n/live
-LN+ Ⓨ,https://www.youtube.com/c/LaNacionMas/live
-+Perfil,https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
-Telemax,https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-Net TV,https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-TV Universidad,https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-Barricada TV,https://www.youtube.com/channel/UC6YundoLrEuBJaPp_oEPWaA/live
-Urbana Tevé,https://www.youtube.com/channel/UCTnbbQUGmWEKeCq9wWoyN0g/live
-Comarca TV,https://www.youtube.com/c/ComarcaTV/live
-El Trece,https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-El Nueve,http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
-Telefe,http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-América,https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-A24 Ⓨ,https://www.youtube.com/c/A24com/live
-
-Armenia,#genre#
-Armenia 1,https://ifl01eu-new.bozztv.com/am1abr/index.m3u8
-Kentron TV Ⓢ,http://stream.mcquack.net/39/index.m3u8
-Armenia TV Ⓢ,http://stream.mcquack.net/175/index.m3u8
-
 Australia,#genre#
 10 HD,https://i.mjh.nz/.r/10-nsw.m3u8
 ABC,https://c.mjh.nz/abc-nsw.m3u8
@@ -10660,7 +10607,7 @@ Nine,https://i.mjh.nz/.r/channel-9-nsw.m3u8
 10 Bold,https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 10 Shake,https://i.mjh.nz/.r/10shake-nsw.m3u8
 TVSN,https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
-ABC Kids,https://c.mjh.nz/abc-kids.m3u8
+
 ABC Me,https://c.mjh.nz/abc-me.m3u8
 ABC News,https://c.mjh.nz/abc-news.m3u8
 M4TV,https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
