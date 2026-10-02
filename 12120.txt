@@ -1,52 +1,60 @@
 NEWS,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://cdn6.163189.xyz/163189/fct4k
 翡翠台,https://live.catvod.com/live.php?id=Jade_xue
 翡翠台,https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&t=1787053193&token=8817b903242b318e86c82bc
-翡翠台,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/4a9be306
 翡翠台,https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B04K%28%E5%AD%97%E5%B9%95%29&t=1787965668&token=f241edc8197d154082d46edf789fb669
-翡翠台剧集,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/610c0964
-华丽翡翠台,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/651db988
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 华丽翡翠台,https://sys.lysvc.cc/iptv_test/main.php?id=%E5%8D%8E%E4%B8%BD%E7%BF%A1%E7%BF%A0%E5%8F%B0%28%E7%A1%AC%E5%AD%97%E5%B9%95%29&t=1787595718&token=daa5d4a1ee9079
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 明珠台,https://sys.lysvc.cc/iptv_test/main.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1787053193&token=83580324e24efb1089101506b
 无线新闻,http://smart.cityq.xyz:8278/inews_twn/playlist.m3u8?tid=ME3E4305907643059076&ct=20075&tsum=0a5fcbca5a1cc7901ffb7014dc9604c9
 无线新闻,https://cdn6.101.qzz.io/163189/wxxw
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,https://sys.lysvc.cc/iptv_test/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&t=1787053193&token=1ad9993d27c19083
-无线新闻,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/8a1a467a
-无线新闻,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/32627b05
+无线新闻,http://r.jdshipin.com/CkuBd
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 Now新闻,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/81e3426d
 Now新闻,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/56876cda
 J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 J2,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
 J2,hhttp://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
-TVB星河台,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/d45e5cc2
+TVB星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河台,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/6ad54fc2
 NOW TV,http://116.202.238.88/FOXTV_TR/index.m3u8
 NOW TV,http://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
 HOY76,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 HOY76,http://27.46.95.90:800/hls/1872445994/index.m3u8
+HOY76,http://r.jdshipin.com/sFw4S
 HOY77,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY77,http://51.89.21.73:27347/livehttpplay?channel_id=20152
 HOY77,http://27.46.95.90:800/hls/1868454448/index.m3u8
+HOY78,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY78,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 HOY78,http://27.46.95.90:800/hls/1868314925/index.m3u8
+VIUTV,http://r.jdshipin.com/vSJvl
 VIUTV,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/512e215c
 VIUTV SIX,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/43ecd388
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新闻,http://smart.cityq.xyz:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 TVBS新闻,https://sys.lysvc.cc/iptv_test/main.php?id=TVBS%E6%96%B0%E9%97%BB&t=1787965668&token=1e02315b45df4a53d3da4242119ec0cd
+民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,https://sys.lysvc.cc/iptv_test/main.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB&t=1787595718&token=3c8677b607b5185
 华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
 华视新闻,http://cookies.elementfx.com/ublive/ublive.php?id=2424
 华视新闻,https://sys.lysvc.cc/iptv_test/main.php?id=%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB&t=1787053193&token=d36bbd8e48674
 华视新闻,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/863cddfa
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻,http://122.117.71.103:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
 寰宇新闻,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 寰宇新闻,https://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
@@ -55,12 +63,14 @@ TVBS新闻,https://sys.lysvc.cc/iptv_test/main.php?id=TVBS%E6%96%B0%E9%97%BB&t=1
 东森新闻,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/f4a1cad6
 东森新闻,https://sys.lysvc.cc/iptv_test/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1787226392&token=6e83d8bd6eedb47c
 东森LIVE,#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://live.fanmingming.cn/tv/三立iNEWS.png" group-title="NEWS",三立iNEWS
-台视新闻,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/707a534e
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/b42b901b
 TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+TVBS ASIA,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS ASIA,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/16b98545
+华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 华视,https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
 华视,http://37.27.111.214:8080/live/8/hls.m3u8
 民视-HD,rtmp://f13h.mine.nu/sat/tv051
@@ -111,6 +121,7 @@ LEGO KIDS,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/10bc
 LEGO KIDS,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/6946ecf4
 经典动画大集合,https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&t=1
 MoMoTV-4K,rtmp://f13h.mine.nu/sat/tv761
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 嘉佳卡通,https://sys.lysvc.cc/iptv_test/main.php?id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&t=1787053193&token=47de0a103e2
 优漫卡通,https://sys.lysvc.cc/iptv_test/main.php?id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A&t=1787226392&token=415b1487f5d6a
 金鹰卡通,https://sys.lysvc.cc/iptv_test/main.php?id=%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A&t=1787053193&token=fb81594548401
@@ -205,7 +216,9 @@ Action Hollywood Movies,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lig
 东森电影,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/a5144d9d
 东森洋片,http://iptv.4666888.xyz/iptv2A.php?id=45
 东森洋片,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/8be5f6d8
+龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 龙华洋片,https://live.catvod.com/iptv.php?id=lhyp01
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 美亞電影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亞電影台,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/9fda79ff
 東森電影台,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
@@ -310,6 +323,17 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 黄渤电影,https://live.metshop.top/huya/11352876
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+斗鱼港剧,http://www.goodiptv.club/douyu/5061550
+橙记港剧,http://www.goodiptv.club/douyu/4549169
+热门港剧,http://www.goodiptv.club/douyu/5522351
+经典剧集,http://www.goodiptv.club/douyu/6863367
+华语影视,http://www.goodiptv.club/douyu/3928
+冰冰影剧,http://www.goodiptv.club/douyu/74374
+贝爷求生,http://www.goodiptv.club/douyu/9661369
+名侦探柯南,https://live.ottiptv.cc/huya/30080236
+哆啦A梦,https://live.ottiptv.cc/huya/11601963
+海绵宝宝,https://live.metshop.top/douyu/3949681
+灌篮高手,https://live.ottiptv.cc/yy/1382735626
 
 数母,#genre#
 电影|007大破量子危机（英语）,https://vip.lzcdn2.com/20220323/337_8f505661/index.m3u8
