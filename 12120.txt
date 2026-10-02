@@ -45,6 +45,7 @@ TVBS新闻,https://sys.lysvc.cc/iptv_test/main.php?id=TVBS%E6%96%B0%E9%97%BB&t=1
 民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,https://sys.lysvc.cc/iptv_test/main.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB&t=1787595718&token=3c8677b607b5185
+华视新闻,https://iptv-org.github.io/channels/tw/CTSNews
 华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
 华视新闻,http://cookies.elementfx.com/ublive/ublive.php?id=2424
 华视新闻,https://sys.lysvc.cc/iptv_test/main.php?id=%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB&t=1787053193&token=d36bbd8e48674
