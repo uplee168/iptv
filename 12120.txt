@@ -86,31 +86,18 @@ NOW NEWS,http://cdn.163189.xyz/163189/now
 Taiwan Plus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 
 KIDS,#genre#
-NICKELODEON,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/73cbd657
-NICKTOONS,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/77cf7481
-NICKJR,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/5513fd85
 NICKHD,https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 ABC Kids,https://c.mjh.nz/abc-kids.m3u8
 DISCOVERY KIDS,https://epg.pw/stream/16e7322b146c0edbaa6db49ca5957c6636b6a9394ad4ba5410f841af98c01bec.ctv
 MOONBUG KIDS,https://moonbug-rokuus.amagi.tv/playlist.m3u8
 KIDOODLE TV,https://stream1.freetv.fun/c9b56985fe40ed1f3d0475662c0b9e02fcdba0db7e41905d6eddbdbe4decddf5.m3u8
-KIDSFLIX,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/4a73efed
-HAPPY KIDS,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/13edbc88
-KARTOON CHANNEL,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/75180e49
 PBS KIDS,https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 NETFLIX KIDS,https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 СТС KIDS,http://stream02.vnet.am/DisneyChannel/mono.m3u8
 Cartoon Network,https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
 Cartoon Network,https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 Cartoon Network,http://109.233.89.166/Cartoon_Network_HD/index.m3u8
-DISNEY INTERNATIONAL,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/bf25698f
-DISNEY JR,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/21b7dbd5
-DISNEY XD,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/c9bbfaf7
 MYTV_SUPER少儿,http://link3.813555.xyz/qyzby/maolin3.php?id=20253
-DUCK TV,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/54c73752
-KIDS MOVIE,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/7285d2f2
-LEGO KIDS,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/10bcf8c4
-LEGO KIDS,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/6946ecf4
 经典动画大集合,https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&t=1
 MoMoTV-4K,rtmp://f13h.mine.nu/sat/tv761
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
@@ -130,15 +117,9 @@ MoMoTV-4K,rtmp://f13h.mine.nu/sat/tv761
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
-NBA,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/89aec184
-NBA,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/72ff7cec
-MLB,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/368b7018
 五星体育,https://sys.lysvc.cc/iptv_test/main.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2HD&t=1787595718&token=f58b5d8b8750b
 
 ANIMAL,#genre#
-Animal Planet,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/89135036
-Nat Geo Wild,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/21bfc265
-National Geographic,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/996bc739
 LOVE NATURE,https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
@@ -150,17 +131,11 @@ OUTDOOR,http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&
 WILD SIDE,https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 WILDEARTH,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 WILDEARTH,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-CCTV10,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/a012c6af
-BBC WORLD,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/109c3286
 DOCUMENTARY,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 地理中国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
 
 MOVIES,#genre#
-MTV,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/98673e16
-MTV,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/49498812
-TED,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/941b1b87
-HBO,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/c0f4fc27
 HBO2,http://178.219.128.68:64888/HBO2HD
 HBO2,http://109.233.89.166/HBO_2_HD/index.m3u8
 HBO3,http://178.219.128.68:64888/HBO3HD
@@ -173,7 +148,6 @@ HBO FHD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10293
 HBO FAMILY,https://live.catvod.com/live.php?id=Hbofamily
 HBO SIGNATURE,https://live.catvod.com/live.php?id=Hbosignature
 HBO XTREME,http://148.113.160.49:14175
-HBO HITS,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/94ca3d72
 HBO MUNDI,http://170.254.18.106/HBO_MUNDI/index.m3u8
 HBO PREMIUM,https://s.vdo.ai/vhs/1.m3u8
 HBO PLUS,http://170.254.18.106/HBO_PLUS/index.m3u8
@@ -181,13 +155,6 @@ HBO POP,http://148.113.160.49:14180/
 AXN,https://streamer1.nexgen.bz/AXN/index.m3u8
 AXN,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
 AXNTW,https://live.catvod.com/live.php?id=axn_twn
-CINEMAX,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/db4f8c6a
-CINEMAXWORLD,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/5a3e8d42
-CINEMAXCLASSIC,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/da8848fa
-CINEMAXHITS,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/db4f8c6a
-CINEPREM,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/0a277c68
-CINEAVENTURA,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/74d53c1b
-ACTION STARS,https://iptv-search.com/live/fav/lpftGbeG2qzEE6SFQZw9mmKK71zOgl7v/764e686d
 DMAX,http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 DMAX,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
 SONY AXN,https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
@@ -195,7 +162,6 @@ SONY MOVIES,https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 SONY SIX,http://103.81.104.118/hls/stream10.m3u8
 SONY PIX,http://87.255.35.150:18495
 SONY MAX,https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-DREAMWORKS,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/6a5212d9
 FOX MOVIES,https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 FOX MOVIES,https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
 HOLLYWOOD,http://myott.top/stream/DT6QU63K5VX/268.m3u8
@@ -204,33 +170,22 @@ HOLLYWOOD,http://stream01.vnet.am/ParamountChannel/mono.m3u8
 YOUNG HOLLYWOOD,https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 YOUNG HOLLYWOOD,https://younghollywood-tcl.amagi.tv/playlist.m3u8
 NETFLIX,https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-BET MOVIE,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/97c42899
 Action Hollywood Movies,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
-东森电影,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/a5144d9d
 东森洋片,http://iptv.4666888.xyz/iptv2A.php?id=45
-东森洋片,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/8be5f6d8
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 龙华洋片,https://live.catvod.com/iptv.php?id=lhyp01
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 美亞電影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-美亞電影台,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/9fda79ff
 東森電影台,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 東森洋片台,https://live.catvod.com/live.php?id=ettvwestern
 龍華電影台,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
 龍華電影台,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龍華洋片台,http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MF7F3761146937611469&ct=19234&tsum=e8b375d0c73fff5a34a7e3b4de2f53bb
 龍華電影台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
-緯來電影台,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/2e8f8630
 AMC電影台,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
 AMC電影台,http://aktv-stream.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
 AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
-Now星影(粤语),https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/9d898945
-Now星影(粤语),https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/130ecea0
-Now爆谷(粤语),https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/104bb1cb
-Now爆谷(粤语),https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/ba522cdf
-Now爆谷(粤语),https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/89135036
-ROCK ACTION,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/6113c666
 美亚电影(台),https://live.catvod.com/live.php?id=meiyamovie_twn
 美亚电影(港),http://link3.813555.xyz/qyzby/maolin3.php?id=20111
 美亚电影(港),http://link3.813555.xyz/qyzby/maolin3.php?id=1223
