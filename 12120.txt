@@ -23,7 +23,6 @@ Now新闻,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/5687
 TVB+,http://r.jdshipin.com/Nr5jq
 TVB+,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 TVB+,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
-TVB+,hhttp://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 TVB星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河台,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/6ad54fc2
 NOW TV,http://116.202.238.88/FOXTV_TR/index.m3u8
