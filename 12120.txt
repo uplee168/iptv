@@ -119,6 +119,7 @@ MoMoTV-4K,rtmp://f13h.mine.nu/sat/tv761
 五星体育,https://sys.lysvc.cc/iptv_test/main.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2HD&t=1787595718&token=f58b5d8b8750b
 
 ANIMAL,#genre#
+ANIMAL PLANET,http://41.205.93.154/ANIMALPLANET/index.m3u8
 LOVE NATURE,https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
@@ -291,6 +292,8 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 七龙珠,https://live.metshop.top/huya/11601966
 猫和老鼠,https://live.metshop.top/huya/11352879
 中华小当家,https://live.metshop.top/huya/11342413
+动作大片,https://live.ottiptv.cc/yy/1382735540?zbj
+国外院线,https://live.ottiptv.cc/yy/1382735570?zbj
 
 数母,#genre#
 电影|007大破量子危机（英语）,https://vip.lzcdn2.com/20220323/337_8f505661/index.m3u8
