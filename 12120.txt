@@ -34,15 +34,13 @@ HOY77,http://27.46.95.90:800/hls/1868454448/index.m3u8
 HOY78,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY78,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 HOY78,http://27.46.95.90:800/hls/1868314925/index.m3u8
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://r.jdshipin.com/vSJvl
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
-TVBS新闻,http://smart.cityq.xyz:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-TVBS新闻,https://sys.lysvc.cc/iptv_test/main.php?id=TVBS%E6%96%B0%E9%97%BB&t=1787965668&token=1e02315b45df4a53d3da4242119ec0cd
+TVBS新闻,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,https://sys.lysvc.cc/iptv_test/main.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB&t=1787595718&token=3c8677b607b5185
