@@ -8,12 +8,12 @@ NEWS,#genre#
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 华丽翡翠台,https://sys.lysvc.cc/iptv_test/main.php?id=%E5%8D%8E%E4%B8%BD%E7%BF%A1%E7%BF%A0%E5%8F%B0%28%E7%A1%AC%E5%AD%97%E5%B9%95%29&t=1787595718&token=daa5d4a1ee9079
 翡翠剧集台,https://cdn.qd.je/163189.php?id=tvbd
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 明珠台,https://sys.lysvc.cc/iptv_test/main.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1787053193&token=83580324e24efb1089101506b
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://smart.cityq.xyz:8278/inews_twn/playlist.m3u8?tid=ME3E4305907643059076&ct=20075&tsum=0a5fcbca5a1cc7901ffb7014dc9604c9
 无线新闻,https://cdn6.101.qzz.io/163189/wxxw
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,https://sys.lysvc.cc/iptv_test/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&t=1787053193&token=1ad9993d27c19083
 无线新闻,http://r.jdshipin.com/CkuBd
