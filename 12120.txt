@@ -1,5 +1,4 @@
 NEWS,#genre#
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
@@ -51,6 +50,7 @@ TVBS新闻,https://sys.lysvc.cc/iptv_test/main.php?id=TVBS%E6%96%B0%E9%97%BB&t=1
 华视新闻,http://cookies.elementfx.com/ublive/ublive.php?id=2424
 华视新闻,https://sys.lysvc.cc/iptv_test/main.php?id=%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB&t=1787053193&token=d36bbd8e48674
 华视新闻,https://iptv-search.com/live/fav/tTrG0O09uIwlaXpxqE5sOJD5G72pimii/863cddfa
+寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻,http://122.117.71.103:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
 寰宇新闻,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
