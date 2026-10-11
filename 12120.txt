@@ -7,6 +7,7 @@ NEWS,#genre#
 翡翠台,https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B04K%28%E5%AD%97%E5%B9%95%29&t=1787965668&token=f241edc8197d154082d46edf789fb669
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 华丽翡翠台,https://sys.lysvc.cc/iptv_test/main.php?id=%E5%8D%8E%E4%B8%BD%E7%BF%A1%E7%BF%A0%E5%8F%B0%28%E7%A1%AC%E5%AD%97%E5%B9%95%29&t=1787595718&token=daa5d4a1ee9079
+翡翠剧集台,https://cdn.qd.je/163189.php?id=tvbd
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 明珠台,https://sys.lysvc.cc/iptv_test/main.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1787053193&token=83580324e24efb1089101506b
