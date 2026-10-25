@@ -60,6 +60,7 @@ TVBS ASIA,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 凤凰卫视資訊台,http://r.jdshipin.com/0Rp07
 凤凰卫视資訊台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰卫视資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 FOX Live Now,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 REUTERS,https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
