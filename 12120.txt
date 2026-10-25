@@ -13,12 +13,12 @@ NEWS,#genre#
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 明珠台,https://sys.lysvc.cc/iptv_test/main.php?id=%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1787053193&token=83580324e24efb1089101506b
+无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://smart.cityq.xyz:8278/inews_twn/playlist.m3u8?tid=ME3E4305907643059076&ct=20075&tsum=0a5fcbca5a1cc7901ffb7014dc9604c9
 无线新闻,https://cdn6.101.qzz.io/163189/wxxw
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,https://sys.lysvc.cc/iptv_test/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&t=1787053193&token=1ad9993d27c19083
-无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
@@ -60,6 +60,7 @@ TVBS ASIA,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 凤凰卫视資訊台,http://r.jdshipin.com/0Rp07
 凤凰卫视資訊台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰卫视資訊台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 FOX Live Now,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -77,9 +78,9 @@ America's Voice,https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d
 DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 Bloomberg TV+,https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 Yahoo! Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-Global News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 NOW NEWS,http://cdn.163189.xyz/163189/now
-Taiwan Plus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
 KIDS,#genre#
 NICKHD,https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
@@ -114,7 +115,6 @@ ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 SBS CJB,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 ANIMAL,#genre#
 ANIMAL PLANET,http://41.205.93.154/ANIMALPLANET/index.m3u8
@@ -127,7 +127,6 @@ DISCOVERY,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct
 OUTDOOR,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 OUTDOOR,http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
 WILD SIDE,https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
-WILDEARTH,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 WILDEARTH,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 DOCUMENTARY,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
@@ -192,8 +191,32 @@ AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
 经典香港电影,https://sys.lysvc.cc/iptv_test/main.php?id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&t=1788138829&token=dfc794fa45bcc7c6cf093cfe9a76eb5d
 
 电影频道,#genre#
-CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+周星驰电影,https://live.metshop.top/huya/11342412
+宇宙科幻合集,https://live.metshop.top/huya/11342428
+强森电影,https://live.metshop.top/huya/21059581
+怪兽电影,https://live.metshop.top/huya/21059577
+王晶电影,https://live.metshop.top/huya/11602058
+电影周星星,http://live.metshop.top/huya/11336587?cdn=alicdn
+电影蜘蛛侠,http://live.metshop.top/huya/21059599?cdn=alicdn
+动作大片,https://live.ottiptv.cc/yy/1382735540?zbj
+国外院线,https://live.ottiptv.cc/yy/1382735570?zbj
+末日电影合集,https://live.ottiptv.cc/yy/1354889019
+爱情公寓,https://live.ottiptv.cc/huya/11336726
+爱情公寓,https://live.ottiptv.cc/douyu/4105989
+封神榜,https://live.metshop.top/huya/29465849
+新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
+西游记,https://live.ottiptv.cc/huya/26355861
+西游记,https://live.metshop.top/huya/29465859
+斗鱼港剧,http://www.goodiptv.club/douyu/5061550
+橙记港剧,http://www.goodiptv.club/douyu/4549169
+热门港剧,http://www.goodiptv.club/douyu/5522351
+经典剧集,http://www.goodiptv.club/douyu/6863367
+名侦探柯南,https://live.ottiptv.cc/huya/30080236
+哆啦A梦,https://live.ottiptv.cc/huya/11601963
+海绵宝宝,https://live.metshop.top/douyu/3949681
+灌篮高手,https://live.ottiptv.cc/yy/1382735626
+七龙珠,https://live.metshop.top/huya/11601966
+猫和老鼠,https://live.metshop.top/huya/11352879
 人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
 人在囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
 人在囧途之港囧,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
@@ -207,23 +230,13 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 功夫电影,https://live.metshop.top/huya/11352941
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 古天乐电影,https://live.metshop.top/huya/29982675
-周星驰电影,https://live.metshop.top/huya/11342412
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 大唐双龙传,https://live.metshop.top/huya/29465850
 大时代,https://live.metshop.top/huya/23865161
 妙手仁心,https://live.metshop.top/huya/29465853
-宇宙科幻合集,https://live.metshop.top/huya/11342428
 寒战,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
 寻秦记,https://live.metshop.top/huya/29465848
-封神榜,https://live.metshop.top/huya/29465849
-新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
-西游记,https://live.ottiptv.cc/huya/26355861
-西游记,https://live.metshop.top/huya/29465859
-爱情公寓,https://live.ottiptv.cc/huya/11336726
-爱情公寓,https://live.ottiptv.cc/douyu/4105989
 射雕英雄传,https://live.metshop.top/huya/23824164
-强森电影,https://live.metshop.top/huya/21059581
-怪兽电影,https://live.metshop.top/huya/21059577
 成龙电影,https://live.metshop.top/huya/11342386
 我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 战争电影,https://live.metshop.top/huya/21059574
@@ -236,6 +249,7 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 枪战电影,https://live.metshop.top/huya/21059579
 楚汉骄雄,https://live.metshop.top/huya/29465854
 武侠电影,https://live.metshop.top/huya/11342427
+金庸武侠,https://live.metshop.top/huya/11342435
 沈腾电影,https://live.metshop.top/huya/11601968
 法政先锋,https://live.metshop.top/huya/23863804
 使徒行者,https://live.metshop.top/huya/23734256
@@ -243,20 +257,17 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 活佛济公3,https://live.metshop.top/huya/23903123
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 狄仁杰电影,https://live.metshop.top/huya/30080229
-王晶电影,https://live.metshop.top/huya/11602058
 电影丧尸片,http://live.metshop.top/huya/21059578?cdn=alicdn
 电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
 电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
 电影功夫片,http://live.metshop.top/huya/11352941?cdn=alicdn
 电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
-电影周星星,http://live.metshop.top/huya/11336587?cdn=alicdn
 电影喜剧专场,http://live.metshop.top/huya/11602044?cdn=alicdn
 电影嫣然影厅,http://live.metshop.top/huya/11601977?cdn=alicdn
 电影战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
 电影搞笑喜剧,http://live.metshop.top/huya/11342423?cdn=alicdn
 电影梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
 电影犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn
-电影蜘蛛侠,http://live.metshop.top/huya/21059599?cdn=alicdn
 电影谍战,http://live.metshop.top/huya/21059585?cdn=alicdn
 电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
 电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
@@ -276,22 +287,12 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 黄渤电影,https://live.metshop.top/huya/11352876
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
-斗鱼港剧,http://www.goodiptv.club/douyu/5061550
-橙记港剧,http://www.goodiptv.club/douyu/4549169
-热门港剧,http://www.goodiptv.club/douyu/5522351
-经典剧集,http://www.goodiptv.club/douyu/6863367
 华语影视,http://www.goodiptv.club/douyu/3928
 冰冰影剧,http://www.goodiptv.club/douyu/74374
 贝爷求生,http://www.goodiptv.club/douyu/9661369
-名侦探柯南,https://live.ottiptv.cc/huya/30080236
-哆啦A梦,https://live.ottiptv.cc/huya/11601963
-海绵宝宝,https://live.metshop.top/douyu/3949681
-灌篮高手,https://live.ottiptv.cc/yy/1382735626
-七龙珠,https://live.metshop.top/huya/11601966
-猫和老鼠,https://live.metshop.top/huya/11352879
 中华小当家,https://live.metshop.top/huya/11342413
-动作大片,https://live.ottiptv.cc/yy/1382735540?zbj
-国外院线,https://live.ottiptv.cc/yy/1382735570?zbj
+CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 
 数母,#genre#
 电影|007大破量子危机（英语）,https://vip.lzcdn2.com/20220323/337_8f505661/index.m3u8
@@ -347,22 +348,22 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 电影|007之择日而亡（英语）,https://vip1.lz-cdn6.com/20220915/27796_9bd4cd2b/index.m3u8
 电影|007之最高机密（国语）,https://vip1.lz-cdn6.com/20220920/28076_0c5a0353/index.m3u8
 电影|007之最高机密（英语）,https://vip1.lz-cdn6.com/20220920/28077_3d6034f8/index.m3u8
-电影|10·豪快者（日语）,https://vip1.lz-cdn1.com/20230725/21417_0a00db0d/index.m3u8
+电影|豪快者（日语）,https://vip1.lz-cdn1.com/20230725/21417_0a00db0d/index.m3u8
 电影|100（其它）,https://vip.lz-cdn3.com/20220807/10872_2629ebc9/index.m3u8
 电影|12回合（英语）,https://vip.lz-cdn3.com/20220921/13920_29a845d7/index.m3u8
-电影|12回合2：重装上阵（英语）,https://vip.lz-cdn3.com/20220921/13906_d38af97f/index.m3u8
-电影|12回合3：致命禁闭（英语）,https://vip.lz-cdn3.com/20220918/13741_6babeae6/index.m3u8
-电影|13分钟2021（英语）,https://vip1.lz-cdn1.com/20220619/9152_fe7d72e1/index.m3u8
-电影|1600谋杀案（英语）,https://v1.cdnlz1.com/20230915/22071_7902e13e/index.m3u8
+电影|重装上阵（英语）,https://vip.lz-cdn3.com/20220921/13906_d38af97f/index.m3u8
+电影|致命禁闭（英语）,https://vip.lz-cdn3.com/20220918/13741_6babeae6/index.m3u8
+电影|2021（英语）,https://vip1.lz-cdn1.com/20220619/9152_fe7d72e1/index.m3u8
+电影|谋杀案（英语）,https://v1.cdnlz1.com/20230915/22071_7902e13e/index.m3u8
 电影|1号通缉令（英语）,https://v1.cdnlz1.com/20230915/22072_a8813a7a/index.m3u8
 电影|21座桥（英语）,https://vip1.lz-cdn6.com/20220829/25456_414c209a/index.m3u8
 电影|22英里（英语）,https://vip1.lz-cdn1.com/20221113/18314_8b099636/index.m3u8
-电影|24：逆转时空（其它）,https://vip.lz-cdn3.com/20220910/13090_ffcc696c/index.m3u8
-电影|355：谍影特工（英语）,https://vip1.lz-cdn1.com/20220616/8970_295214b5/index.m3u8
+电影|逆转时空（其它）,https://vip.lz-cdn3.com/20220910/13090_ffcc696c/index.m3u8
+电影|谍影特工（英语）,https://vip1.lz-cdn1.com/20220616/8970_295214b5/index.m3u8
 电影|36号护卫车（国语）,https://vip.lzcdn2.com/20220511/6021_42aaa297/index.m3u8
 电影|48小时闯天关（英语）,https://vip1.lz-cdn7.com/20230419/15445_959d4d1a/index.m3u8
 电影|4度空间大师（英语）,https://vip.lzcdn2.com/20220507/5773_4fc7d873/index.m3u8
-电影|578：狂人一击（其它）,https://vip1.lz-cdn1.com/20230804/21623_fc596143/index.m3u8
+电影|狂人一击（其它）,https://vip1.lz-cdn1.com/20230804/21623_fc596143/index.m3u8
 电影|666魔鬼复活（粤语）,https://vip1.lz-cdn1.com/20220527/6852_b4a7665a/index.m3u8
 电影|72小时-黄金行动（国语）,https://vip1.lz-cdn1.com/20230810/21732_c56bfda8/index.m3u8
 电影|8号警报2（英语）,https://v.cdnlz12.com/20240229/12106_61587ad0/index.m3u8
@@ -389,10 +390,10 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 电影|LaughingGor之变节（粤语）,https://vip.lz-cdn3.com/20221105/15513_9e4003d1/index.m3u8
 电影|O.S.S.117之不解之谜（法语）,https://vip.lzcdn2.com/20220517/6727_0d8c1bd1/index.m3u8
 电影|O记三合会档案（粤语）,https://vip.lzcdn2.com/20220408/2636_84485530/index.m3u8
-电影|R2B：回到基地（韩语）,https://vip.lz-cdn3.com/20220927/14186_8c9e605b/index.m3u8
+电影|回到基地（韩语）,https://vip.lz-cdn3.com/20220927/14186_8c9e605b/index.m3u8
 电影|RRR（其它）,https://vip1.lz-cdn1.com/20220531/7048_c06e35bd/index.m3u8
 电影|S-最后的警官：夺还（日语）,https://vip1.lz-cdn7.com/20221212/12616_866b5c6c/index.m3u8
-电影|TEN：姬密特攻（其它）,https://v.cdnlz12.com/20230914/10447_cfdf7b56/index.m3u8
+电影|姬密特攻（其它）,https://v.cdnlz12.com/20230914/10447_cfdf7b56/index.m3u8
 电影|V字仇杀队（英语）,https://vip.lzcdn2.com/20220511/6207_b5c9a8dc/index.m3u8
 电影|V字杀（其它）,https://vip.lz-cdn3.com/20220712/9238_03d93c6f/index.m3u8
 电影|X战警（英语）,https://vip.lz-cdn16.com/20230413/16625_bb0ce62a/index.m3u8
